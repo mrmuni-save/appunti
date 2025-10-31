@@ -12,6 +12,7 @@
 | hito   | essere umano     | {人\|ひと}                   |
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
 | daf    | adsad            | afdf                      |
+
 <ruby>登場人物<rt>とう</rt><rt>じょう</rt><rt>じん</rt><rt>ぶつ</rt></ruby> entrata in scena
 <ruby>社員<rt>しゃいん</rt></ruby> impiegato
 会社員 かいしゃいん impiegato
