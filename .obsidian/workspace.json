@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b12ca2361ca31a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d1ebaf373b084ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ed3e74c314f960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIAPPONESE/RACCOLTA PAROLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RACCOLTA PAROLE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa8f00308527ec84",
+    "type": "split",
+    "children": [
+      {
+        "id": "013548da53db0709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296d7fd953e902dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87b8ddd270a1b35c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07da2c2e524789bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8241adc4eb8f3c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65d6da092ff0c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e266f4fb42ac18f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INGLESE/Sociolinguistics and Varieties of English (Prof. Pinnavaia)/2025-10-28-TUE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-28-TUE"
+            }
+          },
+          {
+            "id": "fe6bd1fb799b3a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4544d5804b5416f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d2a7fc41229abda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6fdc0ddeeb2d2abe",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "4588320b90c1aca2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "88ed3e74c314f960",
+  "lastOpenFiles": [
+    "GIAPPONESE/ESERCITAZIONI/2025-10-16-THU.md",
+    "GIAPPONESE/RACCOLTA PAROLE.md",
+    "GIAPPONESE/TEORIA/2025-10-28-TUE.md",
+    "GIAPPONESE/TEORIA/2025-10-21-TUE.md",
+    "NOTA GENERALE.md",
+    "FONDAMENTI DI LINGUISTICA - LINGUISTICA GENERALE/2025-10-13-MON.md",
+    "INGLESE/Sociolinguistics and Varieties of English (Prof. Pinnavaia)/2025-10-14-TUE.md",
+    "INGLESE/Sociolinguistics and Varieties of English (Prof. Pinnavaia)/2025-10-07-TUE.md",
+    "GEOGRAFIA UMANA E REGIONALE/2025-10-28-TUE.md",
+    "INGLESE/Sociolinguistics and Varieties of English (Prof. Pinnavaia)/2025-10-28-TUE.md",
+    "INGLESE/Sociolinguistics and Varieties of English (Prof. Pinnavaia)/2025-10-21-TUE.md",
+    "FONDAMENTI DI LINGUISTICA - LINGUISTICA GENERALE/2025-10-28-TUE.md",
+    "FONDAMENTI DI LINGUISTICA - LINGUISTICA GENERALE/2025-10-27-MON.md",
+    "GIAPPONESE/TEORIA/2025-10-14-TUE.md",
+    "GIAPPONESE/TEORIA/2025-10-13-MON.md",
+    "GIAPPONESE/TEORIA/2025-10-07-TUE.md",
+    "GIAPPONESE/TEORIA/2025-09-30-TUE.md",
+    "materiale-note/FONDAMENTI-001-material-IPA_CHART.pdf",
+    "FONDAMENTI DI LINGUISTICA - LINGUISTICA GENERALE/2025-10-20-MON.md",
+    "GEOGRAFIA UMANA E REGIONALE/2025-10-27-MON.md",
+    "GEOGRAFIA UMANA E REGIONALE/2025-10-21-TUE.md",
+    "GEOGRAFIA UMANA E REGIONALE/2025-10-20-MON.md",
+    "INGLESE/Phonetics and phonology (Prof. Sturiale)/2025-10-27-MON.md",
+    "INGLESE/Phonetics and phonology (Prof. Sturiale)/2025-10-20-MON.md",
+    "FONDAMENTI DI LINGUISTICA - LINGUISTICA GENERALE/2025-10-21-TUE.md",
+    "INGLESE/SKILL A/2025-10-23-THU.md",
+    "materiale-note/GIAPPONESE-001-material-POSIZIONI_RADICALI.png",
+    "GIAPPONESE/ESERCITAZIONI/2025-10-08-WED.md"
+  ]
+}
