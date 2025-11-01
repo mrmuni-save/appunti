@@ -59,6 +59,7 @@ ogni+giorno
 
 お願いします　おねがいします　
 すうじ　数字　numerare/contare
+0 - ゼロ / れい
 一
 二
 三
@@ -69,40 +70,93 @@ ogni+giorno
 八
 九
 十
-学生がくせい
-方かた
+学生 がくせい
+方 かた
 せんせい
+初めまして　はじめまして
 
+~stato~から -> da ~stato~
+来ました provengo きました
+esempio: アメリカから来ました。
 
+失礼　しつれい　scusi -> per introdurre una domanda:
+失礼ですか。お名前は？ scusi, come si chiama?
+
+enpitsu matita
+megane occhiali
+kazoku famiglia
+gaijin straniero
+ike laghetto
+kiku ascoltare
+kashi/okashi dolce
+kabocha zucca
+jitensha bicicletta
+toshokan biblioteca
+kekkon matrimonio
+sekken sapone
+gakki strumento musicale
+otto mio marito
+
+tenisu tennis
+kiui kiwi
+nekutai cravatta
+tesoto test
+mirano milano
+toire toilette
+itaria italia
+furansu francia
+amerika america
+supein spagna
+terevi tv
+doitsu germania
+pari parigi
+rajio radio
+kappu tazza
+beddo letto
+rooma roma
+koohii caffè
+nooto blocco note
+horoonya
 
 ___
 これ　は　にほんご　で　なん　ですか。
 じしょ (dizionario)
-ざっし (rivista)
+ざっし (rivista) 雑誌
 しんぶん (giornale/quotidiano)
 ノート (quaderno)
-めいし (biglietto da visita)
+めいし (biglietto da visita) pron meeji
 つくえ (tavolo)
 えんぴつ (matita)
 ボールペン (penna a sfera)
 シャープペンシル (porta mine)
 かばん (valigetta)
-くるま (automobile)
+くるま (automobile) 車
 みやげ 土産(souvenir)
 ちかてつ (metropolitana)
 かさ傘 (ombrello)
 かぎ (chiavi)
 こけい orologio
-てちょう agenda`
+てちょう agenda
+じしょ　辞書　vocabolario
+
+何　cosa?
 
 これは　だれの　ですか。
 
 それは　nome-さん・ちゃん・くん　の　です。
 
+だれ chi? (あの人はだれ。)
+
 ここ qui
 そこ li
 あそこ li
 どこ dove
+
+これ
+それ
+あれ
+どれ
+questo / codesto / quello / quale?
 
 そちら
 こちら "questa direzione", usato anche per presentare
@@ -150,22 +204,20 @@ Traduzioni varie sono sul Minna No Nihongo.
 オリンピック
 マッチ
 ゲーム
-ちいず
 チーズ
 スプーン
 ローション
 ジュース
+カメラ
 anoshito = quella persona
 anokata (quella persona, ma più cortese)
-sensei = professore (titolo)
+sensei = professore (titolo) 先生
 kyoushi = professore (mestiere)
-kenkyuushai = ricercatore
-kaishain = impiegato
-shain = impiegato presso (nome azienda prima)
-medico = isha (kanji medicina+persona)
 dare = chi
 nansai = quanti anni hai
 Xsai = ho X anni
 oikutsu = contare > cortese > quanti anni hai
 
-
+ ichinichi = giornata aisatsu = saluti ohayoo ohayoo gozaimasu itadakimasu - itadaku = ricevere, itadakimasu -> grazie per il pasto gochisoosama - fine pasto gochisoosama deshita - fine pasto ittekimasu - ite -> andare/uscire itterasshai -> buona giornata konnichiwa sayoonara / shitsureeshimasu shitsuree = maleducato, shimasu = fare, "fare qualcosa di sgarbato" perche sto andando via prima dell'altra persona, arrivederci shitsureeshimasu è molto più usato soredewa mata = arrivederci molto cortese ma poco usato
+しつれします -> しつれえ = sgarbato, します = fare
+fare qualcosa di sgarbato
