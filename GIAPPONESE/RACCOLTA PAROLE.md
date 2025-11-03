@@ -13,8 +13,22 @@
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
 | daf    | adsad            | afdf                      |
 
+日曜日　にちようび　domenica
+月曜日　げつようび　lunedì
+火曜日　かようび　martedì
+水曜日　すいようび　mercoledì
+木曜日　もくようび　giovedì
+金曜日　きにょうび　venerdì
+土曜日　どようび　sabato
+
+お正月　おしょうび　capodanno
+七夕　たなばた　festival delle stelle cadenti
+バレンタインデー　san valentino
+クリスマス　natale
+
+
 <ruby>登場人物<rt>とう</rt><rt>じょう</rt><rt>じん</rt><rt>ぶつ</rt></ruby> entrata in scena
-<ruby>社員<rt>しゃいん</rt></ruby> impiegato
+<ruby>社員<rt>しゃいん</rt></ruby> impiegato *nome dell'azienda* の 社員
 会社員 かいしゃいん impiegato
 <ruby>主婦<rt>しゅふ</rt></ruby> casalinga
 ちゅうごく 中国 cina
