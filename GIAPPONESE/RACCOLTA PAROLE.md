@@ -13,6 +13,9 @@
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
 | daf    | adsad            | afdf                      |
 
+佐藤　さとう Satou (nome)
+
+今日　きょう　oggi
 日曜日　にちようび　domenica
 月曜日　げつようび　lunedì
 火曜日　かようび　martedì
@@ -134,13 +137,13 @@ horoonya
 
 ___
 これ　は　にほんご　で　なん　ですか。
-じしょ (dizionario)
+じしょ (dizionario)　辞書
 ざっし (rivista) 雑誌
 しんぶん (giornale/quotidiano)
 ノート (quaderno)
 めいし (biglietto da visita) pron meeji
 つくえ (tavolo)
-えんぴつ (matita)
+えんぴつ (matita)　鉛筆
 ボールペン (penna a sfera)
 シャープペンシル (porta mine)
 かばん (valigetta)
@@ -149,13 +152,15 @@ ___
 ちかてつ (metropolitana)
 かさ傘 (ombrello)
 かぎ (chiavi)
-こけい orologio
+こけい orologio 時計
 てちょう agenda
 じしょ　辞書　vocabolario
+英語　えいご　inglese
 
 何　cosa?
 
-これは　だれの　ですか。
+これは　だれの　oggetto　ですか。
+di chi è? a chi appartiene?
 
 それは　nome-さん・ちゃん・くん　の　です。
 
@@ -178,11 +183,12 @@ questo / codesto / quello / quale?
 どちら da che parte?
 
 きょうしつ aula studio
-しょくどう mensa
+しょくどう mensa　食堂
 じむしょ ufficio
 かいぎしつ sala riunione
 ぷけつけ 
-うけつけ reception
+うけつけ reception/ricevimento (ad esempio di un albergo)受付
+reception (jp) -> ricevimento (dove si mangia)
 
 ロビー lobby
 へや stanza
@@ -191,14 +197,13 @@ questo / codesto / quello / quale?
 エレベーター ascensore
 エスカレーター scala mobile
 
-おくに　paese/nazione　おくに
+
 かいしゃ azienda
 うち casa mia (colloquiale)
 でんわ telefono
-くつ scarpe
 ネクタイ cravatta
 ワイン vino
-うりば reparto
+うりば reparto 売り場
 
 ちか sotterraneo/seminterrato
 ~かい/~がい piano di un edificio
@@ -210,6 +215,11 @@ questo / codesto / quello / quale?
 ひゃく 100
 せん　1.000
 まん　万 10.000
+
+国　くに　il mio paese
+お国　おくに　il paese di qualcun'altro
+qual è il tuo paese? お国はどちらですか。・お国は何ですか。
+靴　くつ　scarpe
 
 Traduzioni varie sono sul Minna No Nihongo.
 サッカー
