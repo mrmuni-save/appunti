@@ -1,4 +1,3 @@
-
 | ROMAJI   | TRADUZIONE       | HIRAGANA (se kun o furigana) | KATAKANA (se on) | KANJI (+ okurigana) |
 | -------- | ---------------- | ---------------------------- | ---------------- | ------------------- |
 | toujou   | entrata in scena | とうじょう                        |                  | 登場                  |
@@ -13,8 +12,29 @@
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
 | daf    | adsad            | afdf                      |
 
-佐藤　さとう Satou (nome)
-
+| KANJI+OKURIGANA | HIRAGANA | TRADUZIONE                  | NOTE                                                                                     |
+| --------------- | -------- | --------------------------- | ---------------------------------------------------------------------------------------- |
+| 私               | わたし      | io                          |                                                                                          |
+|                 | あなた      | tu                          |                                                                                          |
+| あの人             | あのひと     | quella persona              |                                                                                          |
+| あの方             | あのかた     | quella persona              | cortese                                                                                  |
+|                 | さん       |                             | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |
+|                 | くん       |                             | suffisso che si aggiunge dopo i nomi dei bambini                                         |
+|                 | ちゃん      |                             | suffisso che si aggiunge dopo i nomi delle bambine                                       |
+| 先生              | せんせい     | maestro                     | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |
+| 主婦              | しゅふ      | casalinga                   |                                                                                          |
+| 学生              | がくせい     | studente                    |                                                                                          |
+| 大学生             | だいがくせい   | studente universitario      |                                                                                          |
+| 会社員             | かいしゃいん   | impiegato                   |                                                                                          |
+| 社員              | しゃいん     | impiegato                   | specificando prima l'azienda: *nome azienda*の社員                                          |
+| 銀行員             | ぎんこういん   | bancario/impiegato in banca |                                                                                          |
+| 銀行              | ぎんこう     | banca                       |                                                                                          |
+| 医者              | いしゃ      | medico                      |                                                                                          |
+| 研究者             | けんきゅうしゃ  | ricercatore                 |                                                                                          |
+| 大学              | だいがく     | università                  |                                                                                          |
+| 病院              | びょういん    | ospedale                    |                                                                                          |
+| 佐藤              | さとう      | Satou                       | nome proprio                                                                             |
+DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)
 今日　きょう　oggi
 日曜日　にちようび　domenica
 月曜日　げつようび　lunedì
@@ -31,18 +51,10 @@
 
 
 <ruby>登場人物<rt>とう</rt><rt>じょう</rt><rt>じん</rt><rt>ぶつ</rt></ruby> entrata in scena
-<ruby>社員<rt>しゃいん</rt></ruby> impiegato *nome dell'azienda* の 社員
-会社員 かいしゃいん impiegato
-<ruby>主婦<rt>しゅふ</rt></ruby> casalinga
 ちゅうごく 中国 cina
-病院びょういん ospedale
-医者いしゃ medico
-銀行員ぎんこういんimpiegato in banca
-銀行ぎんこうbanca
 部長ぶちうpresidente
 電気でんきelettricità
 韓国かんこcorea del sud
-研究者けんきゅしゃricercatore
 小学生しょうがくせいstudente scuola elementare
 歳さいanni di età
 娘むすめfiglia
@@ -65,6 +77,8 @@
 質問　しつもん　domanda
 答え　こた　risposta
 例　れい　esempio
+ばつ= falso
+まる= vero
 
 毎日
 まい＋にち
@@ -196,7 +210,8 @@ reception (jp) -> ricevimento (dove si mangia)
 かいだん scala
 エレベーター ascensore
 エスカレーター scala mobile
-
+\~はどこですか。dove si trova\~
+あそこです。è lì
 
 かいしゃ azienda
 うち casa mia (colloquiale)
@@ -220,6 +235,9 @@ reception (jp) -> ricevimento (dove si mangia)
 お国　おくに　il paese di qualcun'altro
 qual è il tuo paese? お国はどちらですか。・お国は何ですか。
 靴　くつ　scarpe
+
+*これはどこのoggettoですか*。 da dove viene *oggetto*?
+*paese*のです。・*paese*の*oggetto*です。
 
 Traduzioni varie sono sul Minna No Nihongo.
 サッカー
@@ -245,3 +263,20 @@ oikutsu = contare > cortese > quanti anni hai
  ichinichi = giornata aisatsu = saluti ohayoo ohayoo gozaimasu itadakimasu - itadaku = ricevere, itadakimasu -> grazie per il pasto gochisoosama - fine pasto gochisoosama deshita - fine pasto ittekimasu - ite -> andare/uscire itterasshai -> buona giornata konnichiwa sayoonara / shitsureeshimasu shitsuree = maleducato, shimasu = fare, "fare qualcosa di sgarbato" perche sto andando via prima dell'altra persona, arrivederci shitsureeshimasu è molto più usato soredewa mata = arrivederci molto cortese ma poco usato
 しつれします -> しつれえ = sgarbato, します = fare
 fare qualcosa di sgarbato
+
+
+３０００＝さんぜん
+８０００＝はっせん
+１０．０００＝いちまん
+１００．０００＝じゅうまん
+１．０００．０００＝ひゃくまん
+１０．０００．０００＝いせえんまん
+１００．０００．０００＝いちおく
+１５．０００＝じゅうごまん
+４．５００．０００＝よんひゃくごじゅうまん
+１８８．０００＝じゅうはちまんはっせん
+1-2-3-いち　に　さん　・　ひ　ふ　み
+numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon ichi san
+
+わすれないで、ください per favore non dimenticate (i vostri oggetti)
+どうも grazie
