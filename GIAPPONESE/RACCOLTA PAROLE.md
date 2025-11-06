@@ -22,6 +22,7 @@
 |                 | くん       |                             | suffisso che si aggiunge dopo i nomi dei bambini                                         |
 |                 | ちゃん      |                             | suffisso che si aggiunge dopo i nomi delle bambine                                       |
 | 先生              | せんせい     | maestro                     | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |
+| 教師              | きょうし     | maestro                     |                                                                                          |
 | 主婦              | しゅふ      | casalinga                   |                                                                                          |
 | 学生              | がくせい     | studente                    |                                                                                          |
 | 大学生             | だいがくせい   | studente universitario      |                                                                                          |
@@ -34,21 +35,16 @@
 | 大学              | だいがく     | università                  |                                                                                          |
 | 病院              | びょういん    | ospedale                    |                                                                                          |
 | 佐藤              | さとう      | Satou                       | nome proprio                                                                             |
+|                 | だれ       | chi (nelle domande)         |                                                                                          |
+|                 | どなた      | chi (nelle domande)         | più cortese                                                                              |
+| 歳               | さい       | anni di età                 | suffisso dopo il numero                                                                  |
+|                 | おいくつ     | quanti anni (domanda)       | forma più cortese rispetto a 何歳                                                          |
+| 何               | なに・なん    |                             | prefisso per l'oggetto della domanda                                                     |
+|                 | はい       | si                          |                                                                                          |
+|                 | いいえ      | no                          |                                                                                          |
+|                 |          |                             |                                                                                          |
+|                 |          |                             |                                                                                          |
 DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)
-今日　きょう　oggi
-日曜日　にちようび　domenica
-月曜日　げつようび　lunedì
-火曜日　かようび　martedì
-水曜日　すいようび　mercoledì
-木曜日　もくようび　giovedì
-金曜日　きにょうび　venerdì
-土曜日　どようび　sabato
-
-お正月　おしょうび　capodanno
-七夕　たなばた　festival delle stelle cadenti
-バレンタインデー　san valentino
-クリスマス　natale
-
 
 <ruby>登場人物<rt>とう</rt><rt>じょう</rt><rt>じん</rt><rt>ぶつ</rt></ruby> entrata in scena
 ちゅうごく 中国 cina
@@ -203,6 +199,7 @@ questo / codesto / quello / quale?
 ぷけつけ 
 うけつけ reception/ricevimento (ad esempio di un albergo)受付
 reception (jp) -> ricevimento (dove si mangia)
+うりば reparto
 
 ロビー lobby
 へや stanza
@@ -212,14 +209,15 @@ reception (jp) -> ricevimento (dove si mangia)
 エスカレーター scala mobile
 \~はどこですか。dove si trova\~
 あそこです。è lì
-
+かいぎしつ sala riunioni
 かいしゃ azienda
 うち casa mia (colloquiale)
 でんわ telefono
 ネクタイ cravatta
 ワイン vino
 うりば reparto 売り場
-
+きょうしつ aula di studio
+しょくどう mensa
 ちか sotterraneo/seminterrato
 ~かい/~がい piano di un edificio
 いっかい　一かい　piano terra (piano 1)
@@ -239,7 +237,6 @@ qual è il tuo paese? お国はどちらですか。・お国は何ですか。
 *これはどこのoggettoですか*。 da dove viene *oggetto*?
 *paese*のです。・*paese*の*oggetto*です。
 
-Traduzioni varie sono sul Minna No Nihongo.
 サッカー
 スナック
 パイロット
@@ -280,3 +277,63 @@ numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon 
 
 わすれないで、ください per favore non dimenticate (i vostri oggetti)
 どうも grazie
+
+
+おきます svegliarsi
+ねます dormire/andare a letto
+はたらきます lavorare
+やすみます riposarsi/prendere una vacanza
+べんきょうします studiare
+おわります terminare
+ゆうびんきょく ufficio postale
+としょかん biblioteca
+びじゅつかん museo
+デパート grande magazzino/department store
+いま adesso
+じ ora (orario) -> 三じ =le 3
+ふん minuto / ぷん
+はん ~mezza
+なんじ che ora è?
+なんぷん che minuto è?
+ごぜん A.M. -> ごぜん七じ le sette del mattino
+ごご P.M.
+しちじはんです。sono le sette e mezza
+じゅうにじじゅうごふです。sono le 12.15
+20 minuti -> にじゅぷん (ぷ ~~ふ~~)
+あさ mattina
+いる giorno/mezzogiorno
+ばん　（よる）sera
+おととい l'altro ieri
+きのう ieri
+あした domani
+あさって dopodomani
+けさ stamattina
+こんばん stasera
+やすみ riposo / ferie
+ひるやすみ pausa pranzo / ora di pranzo
+しけん esame
+かいぎん riunione
+えいが film
+まいあさ ogni mattina
+まいばん ogni sera
+ばいにち ogni giorno
+今日　きょう　oggi
+日曜日　にちようび　domenica
+月曜日　げつようび　lunedì
+火曜日　かようび　martedì
+水曜日　すいようび　mercoledì
+木曜日　もくようび　giovedì
+金曜日　きにょうび　venerdì
+土曜日　どようび　sabato
+お正月　おしょうび　capodanno
+七夕　たなばた　festival delle stelle cadenti
+バレンタインデー　san valentino
+クリスマス　natale
+何曜日　なにょうび che giorno è?
+から da
+まで a
+と (particella)
+ミラノからろーマだれ。da milano a roma
+ore 4= よじ
+ore 9= くじ
+5pm= ごごごじ
