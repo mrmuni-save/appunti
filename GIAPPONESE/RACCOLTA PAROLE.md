@@ -11,103 +11,103 @@
 | hito   | essere umano     | {人\|ひと}                   |
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
 | daf    | adsad            | afdf                      |
+### VOCABOLI ED ESPRESSIONI, ORDINATI PER UNITÀ
 
-| KANJI+OKURIGANA | HIRAGANA | TRADUZIONE                  | NOTE                                                                                     |
-| --------------- | -------- | --------------------------- | ---------------------------------------------------------------------------------------- |
-| 私               | わたし      | io                          |                                                                                          |
-|                 | あなた      | tu                          |                                                                                          |
-| あの人             | あのひと     | quella persona              |                                                                                          |
-| あの方             | あのかた     | quella persona              | cortese                                                                                  |
-|                 | さん       |                             | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |
-|                 | くん       |                             | suffisso che si aggiunge dopo i nomi dei bambini                                         |
-|                 | ちゃん      |                             | suffisso che si aggiunge dopo i nomi delle bambine                                       |
-| 先生              | せんせい     | maestro                     | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |
-| 教師              | きょうし     | maestro                     |                                                                                          |
-| 主婦              | しゅふ      | casalinga                   |                                                                                          |
-| 学生              | がくせい     | studente                    |                                                                                          |
-| 大学生             | だいがくせい   | studente universitario      |                                                                                          |
-| 会社員             | かいしゃいん   | impiegato                   |                                                                                          |
-| 社員              | しゃいん     | impiegato                   | specificando prima l'azienda: *nome azienda*の社員                                          |
-| 銀行員             | ぎんこういん   | bancario/impiegato in banca |                                                                                          |
-| 銀行              | ぎんこう     | banca                       |                                                                                          |
-| 医者              | いしゃ      | medico                      |                                                                                          |
-| 研究者             | けんきゅうしゃ  | ricercatore                 |                                                                                          |
-| 大学              | だいがく     | università                  |                                                                                          |
-| 病院              | びょういん    | ospedale                    |                                                                                          |
-| 佐藤              | さとう      | Satou                       | nome proprio                                                                             |
-|                 | だれ       | chi (nelle domande)         |                                                                                          |
-|                 | どなた      | chi (nelle domande)         | più cortese                                                                              |
-| 歳               | さい       | anni di età                 | suffisso dopo il numero                                                                  |
-|                 | おいくつ     | quanti anni (domanda)       | forma più cortese rispetto a 何歳                                                          |
-| 何               | なに・なん    |                             | prefisso per l'oggetto della domanda                                                     |
-|                 | はい       | si                          |                                                                                          |
-|                 | いいえ      | no                          |                                                                                          |
-|                 |          |                             |                                                                                          |
-|                 |          |                             |                                                                                          |
+| KANJI+OKURIGANA           | HIRAGANA        | TRADUZIONE                    | NOTE                                                                                     |
+| ------------------------- | --------------- | ----------------------------- | ---------------------------------------------------------------------------------------- |
+| 私                         | わたし             | io                            |                                                                                          |
+|                           | あなた             | tu                            |                                                                                          |
+| あの人                       | あのひと            | quella persona                |                                                                                          |
+| あの方                       | あのかた            | quella persona                | cortese                                                                                  |
+|                           | さん              |                               | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |
+|                           | くん              |                               | suffisso che si aggiunge dopo i nomi dei bambini                                         |
+|                           | ちゃん             |                               | suffisso che si aggiunge dopo i nomi delle bambine                                       |
+| 先生                        | せんせい            | maestro                       | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |
+| 教師                        | きょうし            | maestro                       |                                                                                          |
+| 主婦                        | しゅふ             | casalinga                     |                                                                                          |
+| 学生                        | がくせい            | studente                      |                                                                                          |
+| 大学生                       | だいがくせい          | studente universitario        |                                                                                          |
+| 会社員                       | かいしゃいん          | impiegato                     |                                                                                          |
+| 社員                        | しゃいん            | impiegato                     | specificando prima l'azienda: *nome azienda*の社員                                          |
+| 銀行員                       | ぎんこういん          | bancario/impiegato in banca   |                                                                                          |
+| 銀行                        | ぎんこう            | banca                         |                                                                                          |
+| 医者                        | いしゃ             | medico                        |                                                                                          |
+| 研究者                       | けんきゅうしゃ         | ricercatore                   |                                                                                          |
+| 大学                        | だいがく            | università                    |                                                                                          |
+| 病院                        | びょういん           | ospedale                      |                                                                                          |
+| 佐藤                        | さとう             | Satou                         | nome proprio                                                                             |
+|                           | だれ              | chi è(nelle domande)          |                                                                                          |
+|                           | どなた             | chi è(nelle domande)          | più cortese                                                                              |
+| 歳                         | さい              | anni di età                   | suffisso dopo il numero                                                                  |
+|                           | おいくつ            | quanti anni (domanda)         | forma più cortese rispetto a 何歳                                                          |
+| 何                         | なに・なん           |                               | prefisso per l'oggetto della domanda                                                     |
+|                           | はい              | si                            |                                                                                          |
+|                           | いいえ             | no                            |                                                                                          |
+| 初めまして                     | はじめまして          | piacere di conoscerti         |                                                                                          |
+| 山田                        | やまだ             | Yamada                        | nome proprio                                                                             |
+| ~から来ました                   | ~からきました         | provengo da ~                 |                                                                                          |
+|                           | この              | questo                        |                                                                                          |
+|                           | その              | codesto                       |                                                                                          |
+|                           | あの              | quello                        |                                                                                          |
+|                           | どの              | quale?                        |                                                                                          |
+| あの方どなたですか。                | あのかたどなたですか。     | Quella persona chi è?         |                                                                                          |
+|                           | よろしく            | piacere di conoscerla         |                                                                                          |
+|                           | どうぞよろしくおねがいします  | piacere di conoscerla         | più formale                                                                              |
+| 名前                        | なまえ             | nome                          |                                                                                          |
+| 中国                        | ちゅうごく           | cina                          |                                                                                          |
+| 部長                        | ぶちう             | presidente                    |                                                                                          |
+| 電気                        | でんき             | elettricità                   |                                                                                          |
+| 韓国                        | かんこ             | corea del sud                 |                                                                                          |
+| 小学生                       | しょうがくせい         | studente di scuola elementare |                                                                                          |
+| 娘                         | むすめ             | figlia                        |                                                                                          |
+| 一郎                        | いちろう            | primo                         |                                                                                          |
+| 息子                        | むすこ             | figlio                        |                                                                                          |
+| 学校                        | がっこう            | liceo                         |                                                                                          |
+| 登場人物                      | とう\|じょう\|じん\|ぶつ | entrata in scena              |                                                                                          |
+| 始めましょう                    | はじめましょう         | iniziamo!                     |                                                                                          |
+| 終わりましょう                   | おわりましょう         | finiamo!                      |                                                                                          |
+| 休みましょう                    | やすみましょう         | facciamo una pausa!           |                                                                                          |
+|                           | わかりますか          | capisci?                      |                                                                                          |
+|                           | はい、わかります        | si, capisco                   |                                                                                          |
+|                           | いいえ、わかりません      | no, non capisco               |                                                                                          |
+| もう、一度                     | もう、いちど          | ancora una volta              |                                                                                          |
+| お願いします                    | おねがいします         | per favore                    |                                                                                          |
+|                           | いいです            | si, va bene                   |                                                                                          |
+| 違います                      | ちがいます           | no, è errato                  |                                                                                          |
+| 試験                        | しけん             | esame                         |                                                                                          |
+| 宿題                        | しゅくだい           | compito                       |                                                                                          |
+| 質問                        | しつもん            | domanda                       |                                                                                          |
+| 答え                        | こた              | risposta                      |                                                                                          |
+| 例                         | れい              | esempio                       |                                                                                          |
+|                           | ばつ              | falso                         |                                                                                          |
+|                           | まる              | vero                          |                                                                                          |
+| 毎日                        | まいにち            | ogni giorno                   |                                                                                          |
+|                           | あいさつと           | saluti                        |                                                                                          |
+| 会話表                       | かいわ             | conversazione                 |                                                                                          |
+| 表現                        | ひょうげん           | espressione                   |                                                                                          |
+| 数字                        | すうじ             | numerare/contare              |                                                                                          |
+|                           | ゼロ・れい           | zero                          |                                                                                          |
+| 一                         | いち              | uno                           |                                                                                          |
+| 二                         | に               | due                           |                                                                                          |
+| 三                         | さん              | tre                           |                                                                                          |
+| 四                         | よん・し            | quattro                       |                                                                                          |
+| 五                         | ご               | cinque                        |                                                                                          |
+| 六                         | ろく              | sei                           |                                                                                          |
+| 七                         | なな・しち           | sette                         |                                                                                          |
+| 八                         | はち              | otto                          |                                                                                          |
+| 九                         | きゅう・く           | nove                          |                                                                                          |
+| 十                         | じゅう             | dieci                         |                                                                                          |
+| //inserire kanji quaderno |                 |                               |                                                                                          |
+| 来る                        | くる              | venire/provenire              | forma del dizionario (piana affermativa non passata)                                     |
+| 来ました                      | きました            | venire/provenire              | forma gentile affermativa passata                                                        |
+|                           |                 |                               |                                                                                          |
+|                           |                 |                               |                                                                                          |
 DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)
-
-<ruby>登場人物<rt>とう</rt><rt>じょう</rt><rt>じん</rt><rt>ぶつ</rt></ruby> entrata in scena
-ちゅうごく 中国 cina
-部長ぶちうpresidente
-電気でんきelettricità
-韓国かんこcorea del sud
-小学生しょうがくせいstudente scuola elementare
-歳さいanni di età
-娘むすめfiglia
-一郎いちろうprimo
-息子むすこfiglio
-学校がっこうliceo
-始めましょう　はじめましょう　iniziamo!
-終わりましょう　おわりましょう　finiamo!
-休みましょう　やすみましょう　facciamo una pausa!
-わかりますか capisci?
-はい、わかります si, capisco
-いいえ、わかりません no, non capisco
-もう、一度　いちど　ancora una volta
-お願いします　おねがいします　per favore
-いいです si, va bene
-違います　ちがいます　no, è errato
-名前　なまえ　nome
-試験　しけん　esame
-宿題　しゅくだい　compito
-質問　しつもん　domanda
-答え　こた　risposta
-例　れい　esempio
-ばつ= falso
-まる= vero
-
-毎日
-まい＋にち
-ogni+giorno
-
-あいさつと saluti
-会話表　かいわ　conversazione
-表現　ひょうげん　espressione
-
-お願いします　おねがいします　
-すうじ　数字　numerare/contare
-0 - ゼロ / れい
-一
-二
-三
-四
-五
-六
-七
-八
-九
-十
-学生 がくせい
-方 かた
-せんせい
-初めまして　はじめまして
-
 ~stato~から -> da ~stato~
 来ました provengo きました
 esempio: アメリカから来ました。
 
-失礼　しつれい　scusi -> per introdurre una domanda:
-失礼ですか。お名前は？ scusi, come si chiama?
+失礼　しつれい　scusi -> per introdurre una domanda
 
 enpitsu matita
 megane occhiali
