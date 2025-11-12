@@ -100,6 +100,46 @@
 | //inserire kanji quaderno |                 |                               |                                                                                          |
 | 来る                        | くる              | venire/provenire              | forma del dizionario (piana affermativa non passata)                                     |
 | 来ました                      | きました            | venire/provenire              | forma gentile affermativa passata                                                        |
+| 鉛筆                        | えんぴつ            | matita                        |                                                                                          |
+|                           | めがね             | occhiali                      |                                                                                          |
+|                           | かぞく             | famiglia                      |                                                                                          |
+|                           | がいじん            | straniero                     |                                                                                          |
+|                           | いけ              | laghetto                      |                                                                                          |
+|                           | きく              | ascoltare                     |                                                                                          |
+|                           | かし              | dolce                         |                                                                                          |
+|                           | おかし             | dolce                         | (con onorifico)                                                                          |
+|                           | かぼちゃ            | zucca                         |                                                                                          |
+|                           | じてんしゃ           | bicicletta                    |                                                                                          |
+|                           | としょかん           | biblioteca                    |                                                                                          |
+|                           | けっこん            | matrimonio                    |                                                                                          |
+|                           | せっけん            | sapone                        |                                                                                          |
+|                           | がっき             | strumento musicale            |                                                                                          |
+|                           | おっと             | mio marito                    |                                                                                          |
+|                           | テニス             | tennis                        |                                                                                          |
+|                           | キウイ             | kiwi                          | (frutto)                                                                                 |
+|                           | ネクタイ            | cravatta                      |                                                                                          |
+|                           | テソト             | test                          |                                                                                          |
+|                           | ミラノ             | Milano                        |                                                                                          |
+|                           | イタリア            | Italia                        |                                                                                          |
+|                           | フランス            | Francia                       |                                                                                          |
+|                           | アメリカ            | America                       |                                                                                          |
+|                           | スペイン            | Spagna                        |                                                                                          |
+|                           | テレヴ             | tv                            |                                                                                          |
+|                           | ドイツ             | Germania                      |                                                                                          |
+|                           | パリ              | Parigi                        |                                                                                          |
+|                           | ラジオ             | radio                         |                                                                                          |
+|                           | カップ             | tazza                         |                                                                                          |
+|                           | ベッド             | letto                         |                                                                                          |
+|                           | ローマ             | Roma                          |                                                                                          |
+|                           | 小ージー            | caffè                         |                                                                                          |
+|                           | ノート             | blocco note                   |                                                                                          |
+| 辞書                        | じしょ             | dizionario                    |                                                                                          |
+| 雑誌                        | ざっし             | rivista                       |                                                                                          |
+|                           | しんぶん            | giornale/quaderno             |                                                                                          |
+|                           | めいし             | biglietto da visita           |                                                                                          |
+|                           | つくえ             | tavolo                        |                                                                                          |
+|                           | ボールペン           | penna a sfera                 |                                                                                          |
+|                           | シャップペンシル        | portamine                     |                                                                                          |
 |                           |                 |                               |                                                                                          |
 |                           |                 |                               |                                                                                          |
 DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)
@@ -108,54 +148,9 @@ DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)
 esempio: アメリカから来ました。
 
 失礼　しつれい　scusi -> per introdurre una domanda
-
-enpitsu matita
-megane occhiali
-kazoku famiglia
-gaijin straniero
-ike laghetto
-kiku ascoltare
-kashi/okashi dolce
-kabocha zucca
-jitensha bicicletta
-toshokan biblioteca
-kekkon matrimonio
-sekken sapone
-gakki strumento musicale
-otto mio marito
-
-tenisu tennis
-kiui kiwi
-nekutai cravatta
-tesoto test
-mirano milano
-toire toilette
-itaria italia
-furansu francia
-amerika america
-supein spagna
-terevi tv
-doitsu germania
-pari parigi
-rajio radio
-kappu tazza
-beddo letto
-rooma roma
-koohii caffè
-nooto blocco note
 horoonya
-
 ___
 これ　は　にほんご　で　なん　ですか。
-じしょ (dizionario)　辞書
-ざっし (rivista) 雑誌
-しんぶん (giornale/quotidiano)
-ノート (quaderno)
-めいし (biglietto da visita) pron meeji
-つくえ (tavolo)
-えんぴつ (matita)　鉛筆
-ボールペン (penna a sfera)
-シャープペンシル (porta mine)
 かばん (valigetta)
 くるま (automobile) 車
 みやげ 土産(souvenir)
@@ -274,19 +269,23 @@ fare qualcosa di sgarbato
 １８８．０００＝じゅうはちまんはっせん
 1-2-3-いち　に　さん　・　ひ　ふ　み
 numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon ichi san
+なんばん　ですか。numero di telefono?
 
 わすれないで、ください per favore non dimenticate (i vostri oggetti)
 どうも grazie
 
-
+たいへん 大変 mannaggina
+ore 4 = よじ e non よんじ
+ore 9 = くじ e non きゅうじ
+きのうのばん・きのうの場 ieri sera
 おきます svegliarsi
 ねます dormire/andare a letto
-はたらきます lavorare
+はたらきます lavorare 働く はたらく
 やすみます riposarsi/prendere una vacanza
 べんきょうします studiare
 おわります terminare
-ゆうびんきょく ufficio postale
-としょかん biblioteca
+ゆうびんきょく ufficio postale 郵便局
+としょかん biblioteca 図書館
 びじゅつかん museo
 デパート grande magazzino/department store
 いま adesso
@@ -295,9 +294,9 @@ numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon 
 はん ~mezza
 なんじ che ora è?
 なんぷん che minuto è?
-ごぜん A.M. -> ごぜん七じ le sette del mattino
-ごご P.M.
-しちじはんです。sono le sette e mezza
+ごぜん A.M. mattino -> ごぜん七じ le sette del mattino
+ごご P.M.　pomeriggio
+しちじ はん です。sono le sette e mezza
 じゅうにじじゅうごふです。sono le 12.15
 20 minuti -> にじゅぷん (ぷ ~~ふ~~)
 あさ mattina
@@ -311,6 +310,8 @@ numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon 
 こんばん stasera
 やすみ riposo / ferie
 ひるやすみ pausa pranzo / ora di pranzo
+ひる ora di pranzo
+いくら quanto costa?
 しけん esame
 かいぎん riunione
 えいが film
@@ -337,3 +338,12 @@ numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon 
 ore 4= よじ
 ore 9= くじ
 5pm= ごごごじ
+
+クラス -> lezione
+じゅうぎょう lezione -> gli studenti partecipano, c'è interazione (come le esercitazioni)
+こおぎ lezione -> insegnante che spiega, lezione frontale (come le lezioni di grammatica)
+
+たぶん probabilmente
+とけいはもっといません non ho un orologio
+わかりません non lo so
+おぼえていません non mi ricordo
