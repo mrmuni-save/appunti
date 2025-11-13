@@ -17,6 +17,7 @@
 | ------------------------- | --------------- | ----------------------------- | ---------------------------------------------------------------------------------------- |
 | 私                         | わたし             | io                            |                                                                                          |
 |                           | あなた             | tu                            |                                                                                          |
+|                           | わたしたち           | noi                           |                                                                                          |
 | あの人                       | あのひと            | quella persona                |                                                                                          |
 | あの方                       | あのかた            | quella persona                | cortese                                                                                  |
 |                           | さん              |                               | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |
@@ -30,11 +31,11 @@
 | 会社員                       | かいしゃいん          | impiegato                     |                                                                                          |
 | 社員                        | しゃいん            | impiegato                     | specificando prima l'azienda: *nome azienda*の社員                                          |
 | 銀行員                       | ぎんこういん          | bancario/impiegato in banca   |                                                                                          |
-| 銀行                        | ぎんこう            | banca                         |                                                                                          |
+| 銀行                        | ぎんこう            | banca                         | 銀(ぎん argento) 行 (こう andare/istituto)                                                     |
 | 医者                        | いしゃ             | medico                        |                                                                                          |
 | 研究者                       | けんきゅうしゃ         | ricercatore                   |                                                                                          |
 | 大学                        | だいがく            | università                    |                                                                                          |
-| 病院                        | びょういん           | ospedale                      |                                                                                          |
+| 病院                        | びょういん           | ospedale                      | 病(びょう malattia) 院(いん istituto/edificio)                                                  |
 | 佐藤                        | さとう             | Satou                         | nome proprio                                                                             |
 |                           | だれ              | chi è(nelle domande)          |                                                                                          |
 |                           | どなた             | chi è(nelle domande)          | più cortese                                                                              |
@@ -56,8 +57,8 @@
 | 名前                        | なまえ             | nome                          |                                                                                          |
 | 中国                        | ちゅうごく           | cina                          |                                                                                          |
 | 部長                        | ぶちう             | presidente                    |                                                                                          |
-| 電気                        | でんき             | elettricità                   |                                                                                          |
-| 韓国                        | かんこ             | corea del sud                 |                                                                                          |
+| 電気                        | でんき             | elettricità                   | 電気 (den + ki -> ki = atmosfera)                                                          |
+| 韓国                        | かんこく            | corea del sud                 |                                                                                          |
 | 小学生                       | しょうがくせい         | studente di scuola elementare |                                                                                          |
 | 娘                         | むすめ             | figlia                        |                                                                                          |
 | 一郎                        | いちろう            | primo                         |                                                                                          |
@@ -100,7 +101,7 @@
 | //inserire kanji quaderno |                 |                               |                                                                                          |
 | 来る                        | くる              | venire/provenire              | forma del dizionario (piana affermativa non passata)                                     |
 | 来ました                      | きました            | venire/provenire              | forma gentile affermativa passata                                                        |
-| 鉛筆                        | えんぴつ            | matita                        |                                                                                          |
+| 鉛筆                        | えんぴつ            | matita                        | 鉛piombo 筆strumento per scrivere                                                          |
 |                           | めがね             | occhiali                      |                                                                                          |
 |                           | かぞく             | famiglia                      |                                                                                          |
 |                           | がいじん            | straniero                     |                                                                                          |
@@ -109,7 +110,7 @@
 |                           | かし              | dolce                         |                                                                                          |
 |                           | おかし             | dolce                         | (con onorifico)                                                                          |
 |                           | かぼちゃ            | zucca                         |                                                                                          |
-|                           | じてんしゃ           | bicicletta                    |                                                                                          |
+| 自転車                       | じてんしゃ           | bicicletta                    |                                                                                          |
 |                           | としょかん           | biblioteca                    |                                                                                          |
 |                           | けっこん            | matrimonio                    |                                                                                          |
 |                           | せっけん            | sapone                        |                                                                                          |
@@ -157,7 +158,7 @@ ___
 ちかてつ (metropolitana)
 かさ傘 (ombrello)
 かぎ (chiavi)
-こけい orologio 時計
+こけい orologio 時 tempo/ora 計 misura/contare
 てちょう agenda
 じしょ　辞書　vocabolario
 英語　えいご　inglese
@@ -189,7 +190,7 @@ questo / codesto / quello / quale?
 
 きょうしつ aula studio
 しょくどう mensa　食堂
-じむしょ ufficio
+じむしょ ufficio 事務所　(事affare/cosa 務compito/lavoro 所luogo)
 かいぎしつ sala riunione
 ぷけつけ 
 うけつけ reception/ricevimento (ad esempio di un albergo)受付
@@ -207,7 +208,7 @@ reception (jp) -> ricevimento (dove si mangia)
 かいぎしつ sala riunioni
 かいしゃ azienda
 うち casa mia (colloquiale)
-でんわ telefono
+でんわ telefono　電(den -> denki) 話 (parlare) 
 ネクタイ cravatta
 ワイン vino
 うりば reparto 売り場
@@ -289,7 +290,7 @@ ore 9 = くじ e non きゅうじ
 びじゅつかん museo
 デパート grande magazzino/department store
 いま adesso
-じ ora (orario) -> 三じ =le 3
+じ ora 時 (orario) -> 三じ =le 3
 ふん minuto / ぷん
 はん ~mezza
 なんじ che ora è?
@@ -299,9 +300,10 @@ ore 9 = くじ e non きゅうじ
 しちじ はん です。sono le sette e mezza
 じゅうにじじゅうごふです。sono le 12.15
 20 minuti -> にじゅぷん (ぷ ~~ふ~~)
-あさ mattina
+あさ mattina　朝
 いる giorno/mezzogiorno
-ばん　（よる）sera
+ばん 晩 sera
+夜 よる notte
 おととい l'altro ieri
 きのう ieri
 あした domani
@@ -347,3 +349,46 @@ ore 9= くじ
 とけいはもっといません non ho un orologio
 わかりません non lo so
 おぼえていません non mi ricordo
+
+!!!!!!!!!
+
+いきます andare　行く
+きます venire　来る
+かえります tornare　 帰る
+がっこう scuola 学(かく studiare)校 (こう edificio scolastico)
+えき stazione 駅
+ひこうき aereo 飛行機
+ふね nave 
+でんしゃ treno 電車 (denki + kuruma)
+ちかてつ metropolitana 地下鉄
+しんかんせん AV 新幹線
+バス bus
+タクシー taxi
+あるいで a piedi *sostantivo* 歩いて
+ともだち amico　友達
+かれ lui / il mio ragazzo 彼
+かのじょ lei / la mia ragazza 彼女
+かぞく famiglia 家族
+ひとりで solo/da solo 一人で
+しゅう settimana 週
+せんしゅう settimana scorsa
+こんしゅう questa settimana
+らいしゅう settimana prossima
+せんげつ mese scorso　先月
+こんげつ questo mese　今月
+らいげつ prossimo mese 来月
+いま adesso 今
+きょねん l'anno scorso 去年
+ことし quest'anno　今年
+らいねん l'anno prossimo 来年
+ついたち primo giorno del mese
+ふつか　二日
+みっか　三日
+とっか　四日
+いつか　五日
+むいか　六日
+なのか　七日
+ようか　八日
+ここのか　九日
+とおか　十日　
+ねん　anno　年
