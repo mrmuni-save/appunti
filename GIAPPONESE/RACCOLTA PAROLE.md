@@ -10,7 +10,6 @@
 | ------ | ---------------- | ------------------------- |
 | hito   | essere umano     | {人\|ひと}                   |
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |
-| daf    | adsad            | afdf                      |
 ### VOCABOLI ED ESPRESSIONI, ORDINATI PER UNITÀ
 
 | KANJI+OKURIGANA           | HIRAGANA        | TRADUZIONE                    | NOTE                                                                                     |
@@ -268,6 +267,8 @@ fare qualcosa di sgarbato
 １５．０００＝じゅうごまん
 ４．５００．０００＝よんひゃくごじゅうまん
 １８８．０００＝じゅうはちまんはっせん
+８００＝はっさい
+６００＝ろっぴゃく
 1-2-3-いち　に　さん　・　ひ　ふ　み
 numero di telefono -> 060-654-2413 -> zero roku zero の roku go yon の ni yon ichi san
 なんばん　ですか。numero di telefono?
@@ -301,6 +302,7 @@ ore 9 = くじ e non きゅうじ
 じゅうにじじゅうごふです。sono le 12.15
 20 minuti -> にじゅぷん (ぷ ~~ふ~~)
 あさ mattina　朝
+けさ questa mattina 今朝
 いる giorno/mezzogiorno
 ばん 晩 sera
 夜 よる notte
@@ -358,14 +360,15 @@ ore 9= くじ
 がっこう scuola 学(かく studiare)校 (こう edificio scolastico)
 えき stazione 駅
 ひこうき aereo 飛行機
+じどうしゃ automobile 自動車
 ふね nave 
 でんしゃ treno 電車 (denki + kuruma)
 ちかてつ metropolitana 地下鉄
 しんかんせん AV 新幹線
 バス bus
 タクシー taxi
-あるいで a piedi *sostantivo* 歩いて
-ともだち amico　友達
+あるいて a piedi *sostantivo* 歩いて
+ともだち amico　友達　-> ともだち i miei amici | おともだち (お友達) gli amici degli altri
 かれ lui / il mio ragazzo 彼
 かのじょ lei / la mia ragazza 彼女
 かぞく famiglia 家族
@@ -375,20 +378,46 @@ ore 9= くじ
 こんしゅう questa settimana
 らいしゅう settimana prossima
 せんげつ mese scorso　先月
-こんげつ questo mese　今月
+こんげつ questo mese　今月 -> 月 giapp. tsuki cine. getsu
 らいげつ prossimo mese 来月
 いま adesso 今
 きょねん l'anno scorso 去年
 ことし quest'anno　今年
 らいねん l'anno prossimo 来年
+ねん　anno　年
 ついたち primo giorno del mese
 ふつか　二日
 みっか　三日
-とっか　四日
+よっか　四日
 いつか　五日
 むいか　六日
 なのか　七日
 ようか　八日
 ここのか　九日
 とおか　十日　
-ねん　anno　年
+じゅうよっか　１４日
+じゅうしちにち　１７日
+じゅうくにち　１９日
+はつか　２０日
+にじゅうよっか　２４日
+
+giapp. MM/DD
+
+20 Marzo -> 三月 はつか
+29 Aprile -> 四月　にじゅうく日
+5 Maggio ->　五月　いつか
+15 Settembre ->　九月　じゅうご日
+23 Novembre ->　十一月　にじゅうさん日
+
+何で -> なんで = perchè?
+何で -> なにで = con cosa?
+だれと -> = con chi?
+
+こうえん　公園 parco
+
+どこへだれと行きますか。-> dove e con chi vai?
+どこへ何で（なにで）いきますか。-> dove e con cosa (come) vai?
+	学校へ車で行きます。 A scuola, in auto, vado.
+
+まど finestra
+まどう essere perplesso
