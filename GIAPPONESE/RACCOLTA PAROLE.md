@@ -79,8 +79,8 @@
 | 質問                        | しつもん            | domanda                       |                                                                                          |
 | 答え                        | こた              | risposta                      |                                                                                          |
 | 例                         | れい              | esempio                       |                                                                                          |
-|                           | ばつ              | falso                         |                                                                                          |
-|                           | まる              | vero                          |                                                                                          |
+|                           | ばつ              | croce/errato                  |                                                                                          |
+| 円                         | まる              | cerchio                       | corretto                                                                                 |
 | 毎日                        | まいにち            | ogni giorno                   |                                                                                          |
 |                           | あいさつと           | saluti                        |                                                                                          |
 | 会話表                       | かいわ             | conversazione                 |                                                                                          |
@@ -307,7 +307,7 @@ ore 9 = くじ e non きゅうじ
 ばん 晩 sera
 夜 よる notte
 おととい l'altro ieri
-きのう ieri
+きのう ieri 
 あした domani
 あさって dopodomani
 けさ stamattina
@@ -421,3 +421,118 @@ giapp. MM/DD
 
 まど finestra
 まどう essere perplesso
+
+食べます　mangiare　たべます
+見ます　guardare　みます
+飲みます bere 　のみます
+吸います fumare　すいます
+たばこ tabacco/sigarette
+聞きます ascoltare　ききます
+読みます leggere　よみます
+書きます scrivere　かきます
+買います comprare かいます
+\- fare una foto
+写真 foto しゃしん
+します fare
+会います incontrare あいます
+ごはん pasto/riso bollito
+朝ごはん colazione
+昼ごはん pranzo
+晩ごはん cena
+パン pane
+卵　uovo　たまご
+肉　carne　にく
+魚　pesce　さかな
+野菜　verdura　やさい
+果物　frutta　くだもの
+お茶　tè　おちゃ
+紅茶　te nero こうちゃ
+牛乳=　latte　ミルク・ぎゅうにゅう
+ジュース succo di frutta
+ビール birra
+お酒 sake/alcohol　おさけ
+手紙　lettera てがみ
+レポート report/relazione scritta
+ビデオ video/videocassetta/registrazione
+店　negozio　みせ
+庭　giardino　にわ
+宿題 compito per casa しゅくだい
+花見 guardare i fiori di ciliegio (*fare hanami*) はなみ
+いっしょに insieme
+ちょっと un po'/poco
+いつも sempre/di solito
+時々　a volte ときどき
+それから dopodiché
+ええ si
+いいですね wow! che bello! sounds good!
+じゃ、また alla prossima/ci vediamo
+メキシコ messico
+りんご mela
+みかん mandarino
+バナナ banana
+オレンジ arancia
+だいこん tipico tubero cinese
+キャベツ cavolo
+
+ビスケット・クッキー biscotti
+ヨーグルト yogurt
+シリアル cereali
+トースト toast
+ジャム marmellata
+バター burro
+ナッツ nocciole
+さゆ acqua calda
+
+毎＋~曜日
+まいしゅう~ようび
+
+切ります tagliare きります
+送ります spedire/mandare おくります
+あげます regalare
+もらいます ricevere
+貸します prestare かします
+借ります prendere in prestito かります
+教えます insegnare おしえます
+習います imparare ならいます
+かけます fare una telefonata
+
+手 mano て
+はし bacchette
+スプーン cucchiaio
+ナイフ coltello
+フォーク forchetta
+はさみ forbici
+パソコン pc
+ケータイ cellulare
+メイル mail
+年賀状 cartolina di auguri di buon anno nuovo ねんがじょう
+パンチ foratrice per carta
+ホッチキス spillatrice
+セロテープ scotch
+消しゴム gomma da cancellare けしゴム
+紙 foglio/carta かみ
+花 fiore はな
+シャツ camicia
+プレセント regalo
+荷物 bagaglio にもつ
+お金 soldi おかね
+切符 biglietto per mezzi pubblici きっぷ
+
+父 mio padre ちち
+母 mia madre はは
+お父さん padre おとうさん
+お母さん madre おかあさん
+
+もう già
+まだ non ancora
+これから d'ora in poi
+
+すてきですね fantastico no?
+いらっしゃい benvenuto
+どうぞお上がりください entra pure おうぞおあがりください
+失礼します permesso しつれいします
+~ いかがですか le va un ~ ?
+いただきます grazie (prima di mangiare o bere)
+ごちそうさま era buonissimo
+
+スペイン spagna
