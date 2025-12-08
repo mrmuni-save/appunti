@@ -536,3 +536,64 @@ giapp. MM/DD
 ごちそうさま era buonissimo
 
 スペイン spagna
+
+ 何も niente なにも
+
+けいようし aggettivo
+~い
+~な (con nome dopo) -> きれい花 dei bei fiori
+~ø nelle negative
+
+ハンサム bello (solo riferito a uomini)
+きれい bello/pulito
+静か silenzioso/tranquillo しずか
+にぎやか (luogo) frequentato/vivace
+有名 famoso ゆうめい
+親切 gentile しんせつ
+元気 sano/energico げんき
+便利 comodo/utile べんり
+すてき fantastico/splendido
+
+大きい grande おおきい
+小さい piccolo ちいさい
+新しい nuovo あたらしい
+古い vecchio (non per persone) ふるい
+いい buono
+わるい brutto (tempo)
+暑い・熱い caldo あつい
+寒い freddo (tempo) さむい
+冷たい freddo (al tatto) つめたい
+難しい difficile むずかしい
+易しい facile やさしい
+高い costoso/alto たかい
+安い economico やすい
+低い basso ひくい
+おもしろい interessante
+おいしい buono (di sapore)
+忙しい impegnato いそがしい
+楽しい divertente たのしい
+
+白い bianco しろい
+黒い nero くろい
+赤い rosso あかい
+青い blu あおい
+
+桜 ciliegio/fiori di ciliegio さくら
+山 montagna やま
+町 città まち
+食べ物 cibo たべもの
+所 luogo ところ
+寮 dormitorio りょう
+レストラン ristorante
+
+生活 vita quotidiana せいかつ
+「お」仕事 lavoro 「お」しごと
+
+どう come
+どんあ~ che tipo di ~
+とても molto
+あまり non molto (frasi negative)
+そして e (congiunzione tra frasi)
+~¹が、~² -> ~, ma ~
+-
+けっこいです può bastare così
