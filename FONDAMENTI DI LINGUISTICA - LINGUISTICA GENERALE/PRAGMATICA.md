@@ -11,6 +11,9 @@ Seppur nella risposta non ci sia una negazione, e seppur il significato base del
 La definizione effettiva della pragmatica è ancora discussa: Levinson già nel 1983 rintraccia ben 14 possibili definizioni.
 La definizione più utilizzata attualmente è una di quelle di Levinson del 1983, ossia "*La pragmatica è lo studio delle relazioni tra la lingua ed il contesto che sono fondamentali per spiegare la comprensione della lingua stessa.*" (traduzione italiana 1993).
 
+Da un punto di vista pragmatico, ogni volta che viene usata un'espressione linguistica si produce un diverso atto comunicativo, nuovo ed irripetibile, poiché esso avviene in una specifica circostanza, con specifici partecipanti, ed all'interno di una complessa rete di relazioni sociali e personali, oltre che in diverse coordinate spaziali e temporali, e le conoscenze pregresse.
+Un altro fattore importante è il contesto linguistico e sociale. La relazione tra i parlanti può portare a variazioni come la ***cortesia***.
+
 ___
 #### Le espressioni deittiche
 
@@ -18,6 +21,11 @@ Tra le parole ed espressioni che variano significato in base al contesto, ed ad 
 Un deittico può essere, ad esempio "*ieri*", che cambia significato ogni giorno, o "*io*" che cambia significato in base a chi parla, oppure ancora "*lì*", che cambia significato in base alla posizione di chi sta parlando.
 
 Secondo il ***principio di composizionalità*** di ***Gottlob Frege*** il significato di un enunciato non è dato solo ed unicamente dal ***significato delle espressioni*** che lo compongono ma anche dalle ***regole di composizione*** del ***linguaggio***. Di conseguenza, per comprendere un enunciato, bisogna comprendere anche le condizioni di verità dello stesso, e nel caso dei deittici, ciò significa assicurarsi del contesto, in maniera tale da poter attribuire ad essi dei referenti specifici, tramite cui poi poter valutare correttamente la veridicità dell'enunciato.
+
+Secondo la classica trattazione di Buhler (1934), le componenti del ***centro deittico*** sono la persona (*ego*: 'io'), il luogo (*hic*: 'qui') ed il tempo (*nunc*, 'ora'). A queste tre componenti si aggiungono la situazione sociale (status del parlante rispetto agli interlocutori) ed il contesto (ossia il punto del discorso in cui si trova una certa espressione), per un totale di 5 tipi di espressioni deittiche.
+
+I ***deittici testuali*** non fanno riferimento al contesto situazionale, ma si riferiscono a parti del testo, *scritto* o *orale* che sia, che precedono o seguono l'enunciato.
+Esempio: "***Qui** sono descritte le espressioni deittiche, **nel prossimo** paragrafo il concetto di azione e la conseguenza di un enunciato.*"
 
 ___
 #### πρᾶγμα = azione
@@ -69,4 +77,72 @@ ___
 Seppur la differenza tra semantica e pragmatica non sia nettamente definita, è generalmente accettata l'idea che la semantica si riferisca principalmente agli aspetti convenzionali del significato, che tipicamente rimangono invariati rispetto al contesto; mentre la pragmatica si occupa prevalentemente dell'interpretazione dei messaggi all'interno del contesto.
 Non sempre però tutti i fenomeni sono catalogabili in una delle due definizioni.
 
-TAB PAG 218 PDF PAG 203 LIBRO
+| semantica                    | pragmatica                       |
+| ---------------------------- | -------------------------------- |
+| significato letterale        | significato non letterale        |
+| significato dell'espressione | significato del parlante         |
+| significato verocondizionale | significato non verocondizionale |
+| significato in astratto      | significato in contesto          |
+
+Molti significati, convenzionali, iniziano ad essere intuiti non dal contesto ma dall'abitudine o dall'uso comune dell'espressione, ed in questo caso si verifica una ***semanticalizzazione di interferenze***.
+
+___
+#### veridicità, atti linguistici e illocuzione
+
+Nella semantica tradizionale, referenzialista e verocondizionale, il linguaggio è considerato uno strumento volto alla descrizione della realtà, riferendosi a oggetti e stati di entità esistenti. In questo senso, un concetto importante che risalta è quello della ***verità*** di un significato linguistico, ossia il corrispondere al mondo in modo congruo e appropriato.
+
+Secondo questa prospettiva, gli enunciati sarebbero valutabili all'interno del loro contesto d'uso come *veri* o *falsi* in base alla loro corrispondenza con la realtà.
+Ad esempio "*Il cane dorme nella cuccia.*" sarà vero se in effetti c'è *un cane* che *dorme in una cuccia*, o falso se non si verifica quella situazione.
+
+Non per tutti gli enunciati è così però: nel caso delle richieste o degli ordini non si può controllare la veridicità dell'enunciato confrontandolo con il mondo.
+Alcuni esempi possono essere frasi come "*Chiudi la finestra!* oppure *Mi scuso profondamente per l'accaduto.* oppure ancora *Prometto che non lo farò mai più!* o *Scommetto che vinceranno loro!*
+Queste espresisoni non sono valutabili quindi attraverso delle ***condizioni di verità***, in quanto essi non possono essere ne veri ne falsi, poiché non stanno descrivendo un insieme di fatti che accadono o stati di cose esistenti nel mondo. In questo caso si verificano delle vere e proprie ***azioni linguistiche***, ossia azioni che vengono eseguite *attraverso* il linguaggio.
+
+Questa idea risale già dai tempi di Aristotele, che riconosceva l'esistenza di enunciati di cui non ha senso chiedersi se siano veri o falsi, come ad esempio le preghiere. Per Aristotele questa osservazione però aveva uno scopo negativo, ossia quello di escludere dal suo piano di ricerca gli enunciati di questo tipo.
+
+La ***funzione assertiva*** è solo una tra le varie possibilità date dal linguaggio umano.  Il linguaggio però va oltre questa dimensione, coprendo una serie di attività molto vasta ed eterogenea.
+Il filosofo britannico John L. Austin per primo pose questi temi al centro della sua ricerca, presentandolo nel volume *How to Do Things with Words* nel 1962, ossia una raccolta di lezioni da lui tenute nelle università di Oxford e Harvard.
+
+Austin suddivide gli enunciati in due tipi:
+- gli ***enunciati constativi*** (*o descrittivi*): descrivono uno stato di cose nel mondo od eventi e sono valutabili come veri o falsi.
+- gli ***enunciati performativi***: non descrivono stati di cose od eventi e non sono valutabili come veri o falsi.
+
+Austin definisce le ***condizioni*** di ***buona riuscita*** di un atto linguistico come le sue ***condizioni di felicità***, ossia le condizioni che devono essere rispettate perché l'atto risulti ***valido*** (*vero*).
+La ***procedura*** quindi deve:
+- prevedere l'enunciazione di una ***specifica formula linguistica*** e le ***entità*** coinvolte devono essere ***adeguate al ruolo*** che sono chiamate a svolgere.
+- essere ***eseguita*** in ***modo corretto*** e ***fino in fondo*** da ***tutti*** i partecipanti.
+Gli aspetti ***intenzionali*** delle condizioni di felicità riguardano invece gli ***stati mentali*** ed i ***comportamenti*** dei partecipanti, ossia che i partecipanti siano effettivamente d'accordo con l'azione che si sta svolgendo e che si comporteranno effettivamente in modo congruo all'azione che hanno compiuto (come il *tener fede ad una promessa*).
+Se le condizioni di felicità non vengono rispettate l'atto fallisce ed è quindi da ritenersi ***non valido*** o ***infelice***, mentre nel caso in cui le condizioni convenzionali non siano rispettate l'atto è da considerarsi ***nullo***.
+Se le condizioni intenzionali vengono violate ma l'azione viene compiuta, l'atto può essere considerato ***vuoto*** e prende la forma di ***abuso*** (come *fare una promessa che non si ha intenzione di mantenere* oppure *non mantenere una promessa fatta*).
+
+Austin nota oltretutto l'esistenza di una specifica tipologia di verbi, che egli definisce ***verbi performativi***, capaci di produrre un enunciato performativo in determinate condizioni e contesti d'uso.
+I verbi performativi compiono l'atto di cui predicano: *ordinare* compie un *ordine*, *promettere* compie una *promessa*...
+Il verbo in questione deve essere coniugato nella sua ***forma canonica*** che solitamente prevede la prima persona singolare del presente indicativo, con diatesi attiva (il soggetto compie l'azione) e polarità positiva (senza negazioni). Se il verbo non è in questa forma allora probabilmente l'enunciato sarà di tipo constativo.
+Ad esempio "*Ti ordino di chiudere la porta!*" è performativo, mentre "*Non vi ordino di chiudere la porta* o *Vi ho ordinato di chiudere la porta* descrivono qualcosa che sta o meno accadendo, e quindi sono constativi.
+
+Austin suggerisce, come test linguistico per determinare se un verbo è in forma canonica oppure in forma performativa, di precedere l'enunciato con l'espressione *hereby* (*con ciò*): se l'enunciato rimane sensato allora è performativo.
+"*Con ciò mi scuso profondamente.*" è sensato, mentre "*con ciò bevo un bicchiere d'acqua.*" no.
+
+In realtà il verbo performativo non è necessario, o non deve per forza essere esplicito, come nel caso di "*Chiudi quella finestra!*" o molto più comunemente in "*Quanti anni hai?*".
+Parallelamente a ciò si può notare come esistano verbi performativi che però corrispondono ad enunciati constativi, come *affermare*, *asserire* e *concludere*.
+Austin, sulla base di ciò mette in ***crisi*** la ***distinzione*** tra tipi di atti da lui stesso introdotta,.
+In più esistono altre argomentazioni contrarie alla divisione tra atti constativi e performativi, come il fatto che anche per gli enunciati constativi è possibile applicare condizioni di felicità.
+Quindi Austin ***abbandona*** la dicotomia performativo/constativo, per abbracciare l'ipotesi che, ***ogni qual volta un enunciato viene proferito*** viene compiuta un'***azione linguistica***. Prende così forma la teoria generale dell'agire attraverso il linguaggio, nota come ***teoria degli atti linguistici*** (*speech act theory*).
+Austin quindi descrive il ***compimento simultaneo*** di tre ***tipi di atti***:
+- ***atto locutivo***: ossia il dire qualcosa, enunciare un'espressione linguistica. Questo atto è a sua volta composto da:
+	- ***atto fonetico***: l'atto di emettere determinati suoni
+	- ***atto fatico***: il fatto che la sequenza di suoni prodotti sia conforme a determinate regole linguistiche, di ordine fonologico, prosodico, morfologico e sintattico
+	- ***atto retico***: il fatto che le parole utilizzate corrispondano a determinati significati ed abbiano un riferimento specifico
+- ***atto illocutivo*** o ***illocutorio***: ossia l'azione compiuta nel pronunciare qualcosa (*in + locutivo*),  come *ordinare*, *domandare* ed *affermare*. Austin introduce quindi il concetto di ***forza illocutiva***, ossia la possibilità di utilizzare il ***linguaggio*** per ***modificare*** il ***mondo esterno***. Secondo ***Frege*** invece la ***forza*** di un enunciato è l'esprimere il riconoscimento della verità di un contenuto, e si collega al ***senso***, ossia ciò che un parlante deve conoscere per applicare un giudizio di verità. Frege, non avendo una concezione di linguaggio come azione, riconosceva solo la forza nellle varianti assertiva ed interrogativa. Corti e Caffi (1989) individuano tre principali tipi di indicatori della forza illocutiva:
+	- ***indicatori lessicali***: verbi performativi espliciti ed espressioni veicolanti esplicitamente un tipo di forza (*divieto*, *avviso*)
+	- ***indicatori morfosintattici***: il modo imperativo dei verbi, o morfemi liberi indicanti un certo tipo di forza (come il *ma* cinese)
+	- ***indicatori prosodici***: l'intonazione con cui viene proferito un enunciato (a cui si aggiungono eventualmente indicatori di tipo gestuale, posturale ed espressioni facciali). Questo tipo di indicatore è quello più operativo nel parlato spontaneo, dove assume il ruolo di marca necessaria per la realizzazione illocutiva (Cresti, 2000)
+- ***atto perlocutorio***: ossia le conseguenze intenzionali e non intenzionali ottenute pronunciando un enunciato, sia sugli stati d'animo che sui comportamenti dei partecipanti che sul mondo. Un atto perlocutivo non ha condizioni convenzionali specifiche ma si lega alle conseguenze extralinguistiche derivate dal proferimento di un enunciato, e pertanto uno stesso atto illocutivo può avere molteplici effetti perlocutivi. Un *ordine* ad esempio può *indurre*, *intimorire*, *dissuadere*, *innervosire* o avere altri effetti ancora.
+
+Austin, analizzando circa un migliaio di verbi performativi espliciti, definisce cinque diversi tipi di atti illocutivi:
+- ***atti verdettivi***: corrispondono ad atti di giudizio o valutazione, ufficiali od informali, proferiti da parlanti che rivestono un luogo di autorità, come un *giudice*, un *tribunale* od un *arbitro*. Verbi che rientrano in questa categoria sono *valutare*, *giudicare*, *condannare*, *riconoscere* e *stimare*.
+- ***atti esercitivi***: implicano l'esercizio di un potere, un diritto, od un'influenza su una decisione che deve essere presa, a favore o contro l'esecuzione di un'azione. Il parlante deve avere l'autorità che lo legittima all'esercizio di tale potere. Verbi che rientrano in questa categoria sono *ordinare*, *vietare*, *nominare*, *proclamare*, *licenziare*, *raccomandare* e *battezzare*.
+- ***atti commissivi***: comportano l'assunzione di un impegno da parte del parlante. Verbi che rientrano in questa categoria sono *promettere*, *giurare*, *scommettere* e *sottoscrivere*.
+- ***atti comportativi***: si legano a specifici comportamenti ed atteggiamenti sociali, od alle possibili reazioni ai comportamenti di altri: Verbi che rientrano in questa categoria sono *ringraziare*, *augurare* e *maledire*.
+- ***atti espositivi***: esprimono idee, convinzioni, argomentazioni e punti di vista. Verbi che rientrano in questa categoria sono *affermare*, *negare*, *definire*, *chiedere*, *rispondere* ed *obiettare*.
+Molti studiosi hanno comunque sollevato numerosi interrogativi e criticità rispetto ai tipi individuati da Austin.
