@@ -146,3 +146,60 @@ Austin, analizzando circa un migliaio di verbi performativi espliciti, definisce
 - ***atti comportativi***: si legano a specifici comportamenti ed atteggiamenti sociali, od alle possibili reazioni ai comportamenti di altri: Verbi che rientrano in questa categoria sono *ringraziare*, *augurare* e *maledire*.
 - ***atti espositivi***: esprimono idee, convinzioni, argomentazioni e punti di vista. Verbi che rientrano in questa categoria sono *affermare*, *negare*, *definire*, *chiedere*, *rispondere* ed *obiettare*.
 Molti studiosi hanno comunque sollevato numerosi interrogativi e criticità rispetto ai tipi individuati da Austin.
+
+___
+#### La teoria di Searle
+
+John Searle, filosofo statunitense e studente di Austin ad Oxford, propone un diverso schema, distinguendo l'***atto locutivo*** in due sottoatti: l'atto ***enunciativo*** (ossia il pronunciare determinati fonemi, morfemi, e frasi), e l'atto ***proposizionale***, suddiviso a sua volta in un sotto-atto ***predicativo*** che conferisce significato alla struttura di predicazione completa.
+Searle concepisce l'atto linguistico su una base più strettamente linguistica, ponendo a fondamento del suo modello il ***contenuto proposizionale*** *p* e la ***forza illocutiva*** *F*.
+Questo modello permette quindi di applicare diverse forze illocutive ad uno stesso contenuto proposizionale, cambiando quindi il contesto od il significato di un'espressione.
+Ad esempio "*L'acqua sta bollendo.*" può essere la risposta ad una domanda, un'affermazione, un suggerimento *di buttare la pasta*, od un avvertimento.
+
+Un'altra conseguenza a questo tipo di schematizzazione è la possibilità di evidenziare le diverse portate di una negazione, ad esempio:
+F=*promettere*
+p=*aiutare*
+¬=*negazione*
+
+F(p) = *promettere di aiutare*
+¬F(p) = *non promettere di aiutare*
+F(¬p) = *promettere di non aiutare*
+
+Secondo Searle, la classificazione di Austin era più una classificazione di verbi che non di atti, e non si basava su criteri uniformi e definizioni condivise, portando le categorie a non essere omogenee, avendo sovrapposizioni o verbi qualitativamente differenti in una stessa categoria.
+
+___
+####  Le dimensioni di variazione dell'illocuzione
+
+Searle individua 12 dimensioni di variazione, e le più importanti sono 3:
+- lo ***scopo illocutivo***, ossia la motivazione per cui viene proferito un determinato enunciato, e corrisponde alla condizione di buona riuscita essenziale. Un'ordine ed una richiesta hanno lo stesso scopo (far fare qualcosa a qualcuno) ma variano di intensità.
+- la ***direzione di adattamento***, una conseguenza dello scopo illocutorio, consiste nel rapporto posto in essere tra le parole proferite ed il mondo esterno: nelle asserzioni le parole usate devono rispecchiare la realtà e rappresentarla, mentre negli ordini è il mondo a dover rispecchiare le nostre parole.
+- lo ***stato psicologico espresso***, ossia l'atteggiamento del parlante rispetto al contenuto proposizionale del suo enunciato, corrisponde alla condizione di sincerità. In un'affermazione il parlante pensa che ciò che dice sia vero, mentre in una promessa il parlante si impegna a fare qualcosa.
+Sulla base di queste dimensioni Searle propone cinque classi di atti:
+- atti ***rappresentativi***:
+	- scopo illocutivo: il parlante si impegna sulla verità di quanto detto
+	- direzione di adattamento: parole -> mondo
+	- stato psicologico espresso: il parlante crede nel contenuto proposizionale
+	- esempi: *descrizioni*, *asserzioni*, *spiegazioni*, *risposte*, *conclusioni*...
+CONTINUA A PAG 216 LIBRO 231 PDF
+
+___
+#### Il modello di comunicazione di Grice
+
+Secondo Grice in una discussione sono presenti tre attrubuti: la *razionalità*, la *cooperazione* e l'*orientamento ad uno scopo*. Grice definisce ciò "***principio di cooperazione***.
+
+Per strutturare meglio questo principio Grice lo declina in quattro ***massime conversazionali***, basate sulla divisione di Kant dell'intelletto:
+- ***quantità***: il contributo è ciò che viene richiesto, non di più e non di meno
+- ***qualità***: il contenuto è vero e le prove della veridicità del contenuto sono sufficienti
+- ***relazione***: il contributo è pertinente
+- ***modo***: il contenuto è ordinato e conciso, e non è ambiguo
+Una conversazione può però presentare dei discostamenti dalle masisme, passando ad esempio atteaverso una ***dissociazione*** palese od una ***violazione nascosta***.
+Esempio:
+*Dove abiti?* - *A casa mia!* -> implicazione: *non voglio dirti dove abito*
+Viene spesso utilizzata come implicatura l'*ironia*, ma ci sono molteplici altri casi.
+
+Partendo da questo modello, l'antropologo francese Dan Sperber e la linguista inglese Deidre Wilson propongono la t***eoria della pertinenza***: gli esseri umani hanno sviluppato, secondo questa teoria, un sistema di selezione dell; informazione regolato dal principio di pertinenza, ossia un criterio di efficenza ed economia cognitiva, con l'obiettivo di avere il massimo effetto cognitivo con il minimo costo.
+
+Un'altra implicatura esistente è la presupposizione, che a differenza di tutte le altre implicature da per scontata la verità sulla base del contenuto espresso.
+
+Le ***implicature convenzionali*** sono proposizioni comunicate implicitamente partendo dal significato convenzionale delle espressioni usate.
+Esempio: *X ma anche Y* implica che *solitamente X non è anche Y*
+le ***implicature scalari*** invece si legano alla ***massima della quantità***.
