@@ -157,9 +157,8 @@ ___
 ちかてつ (metropolitana)  
 かさ傘 (ombrello)  
 かぎ (chiavi)  
-こけい orologio 時 tempo/ora 計 misura/contare  
+とけい orologio 時 tempo/ora 計 misura/contare  
 てちょう agenda  
-じしょ　辞書　vocabolario  
 英語　えいご　inglese  
 
 何　cosa?  
