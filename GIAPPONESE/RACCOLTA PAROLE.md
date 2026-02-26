@@ -589,10 +589,13 @@ giapp. MM/DD
 「お」仕事 lavoro 「お」しごと  
 
 どう come  
-どんあ~ che tipo di ~  
+どんな~ che tipo di ~  
 とても molto  
 あまり non molto (frasi negative)  
 そして e (congiunzione tra frasi)  
 ~¹が、~² -> ~, ma ~  
--  
 けっこいです può bastare così  
+
+ちゅうかりょうり cucina cinese 中華料理
+わしょく cucina giapponese 和食
+伊 italia
