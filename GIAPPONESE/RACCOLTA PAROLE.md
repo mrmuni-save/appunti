@@ -12,136 +12,136 @@
 | jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |  
 ### VOCABOLI ED ESPRESSIONI, ORDINATI PER UNITÀ  
 
-| KANJI+OKURIGANA           | HIRAGANA        | TRADUZIONE                    | NOTE                                                                                     |  
-| ------------------------- | --------------- | ----------------------------- | ---------------------------------------------------------------------------------------- |  
-| 私                         | わたし             | io                            |                                                                                          |  
-|                           | あなた             | tu                            |                                                                                          |  
-|                           | わたしたち           | noi                           |                                                                                          |  
-| あの人                       | あのひと            | quella persona                |                                                                                          |  
-| あの方                       | あのかた            | quella persona                | cortese                                                                                  |  
-|                           | さん              |                               | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |  
-|                           | くん              |                               | suffisso che si aggiunge dopo i nomi dei bambini                                         |  
-|                           | ちゃん             |                               | suffisso che si aggiunge dopo i nomi delle bambine                                       |  
-| 先生                        | せんせい            | maestro                       | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |  
-| 教師                        | きょうし            | maestro                       |                                                                                          |  
-| 主婦                        | しゅふ             | casalinga                     |                                                                                          |  
-| 学生                        | がくせい            | studente                      |                                                                                          |  
-| 大学生                       | だいがくせい          | studente universitario        |                                                                                          |  
-| 会社員                       | かいしゃいん          | impiegato                     |                                                                                          |  
-| 社員                        | しゃいん            | impiegato                     | specificando prima l'azienda: *nome azienda*の社員                                          |  
-| 銀行員                       | ぎんこういん          | bancario/impiegato in banca   |                                                                                          |  
-| 銀行                        | ぎんこう            | banca                         | 銀(ぎん argento) 行 (こう andare/istituto)                                                     |  
-| 医者                        | いしゃ             | medico                        |                                                                                          |  
-| 研究者                       | けんきゅうしゃ         | ricercatore                   |                                                                                          |  
-| 大学                        | だいがく            | università                    |                                                                                          |  
-| 病院                        | びょういん           | ospedale                      | 病(びょう malattia) 院(いん istituto/edificio)                                                  |  
-| 佐藤                        | さとう             | Satou                         | nome proprio                                                                             |  
-|                           | だれ              | chi è(nelle domande)          |                                                                                          |  
-|                           | どなた             | chi è(nelle domande)          | più cortese                                                                              |  
-| 歳                         | さい              | anni di età                   | suffisso dopo il numero                                                                  |  
-|                           | おいくつ            | quanti anni (domanda)         | forma più cortese rispetto a 何歳                                                          |  
-| 何                         | なに・なん           |                               | prefisso per l'oggetto della domanda                                                     |  
-|                           | はい              | si                            |                                                                                          |  
-|                           | いいえ             | no                            |                                                                                          |  
-| 初めまして                     | はじめまして          | piacere di conoscerti         |                                                                                          |  
-| 山田                        | やまだ             | Yamada                        | nome proprio                                                                             |  
-| ~から来ました                   | ~からきました         | provengo da ~                 |                                                                                          |  
-|                           | この              | questo                        |                                                                                          |  
-|                           | その              | codesto                       |                                                                                          |  
-|                           | あの              | quello                        |                                                                                          |  
-|                           | どの              | quale?                        |                                                                                          |  
-| あの方どなたですか。                | あのかたどなたですか。     | Quella persona chi è?         |                                                                                          |  
-|                           | よろしく            | piacere di conoscerla         |                                                                                          |  
-|                           | どうぞよろしくおねがいします  | piacere di conoscerla         | più formale                                                                              |  
-| 名前                        | なまえ             | nome                          |                                                                                          |  
-| 中国                        | ちゅうごく           | cina                          |                                                                                          |  
-| 部長                        | ぶちう             | presidente                    |                                                                                          |  
-| 電気                        | でんき             | elettricità                   | 電気 (den + ki -> ki = atmosfera)                                                          |  
-| 韓国                        | かんこく            | corea del sud                 |                                                                                          |  
-| 小学生                       | しょうがくせい         | studente di scuola elementare |                                                                                          |  
-| 娘                         | むすめ             | figlia                        |                                                                                          |  
-| 一郎                        | いちろう            | primo                         |                                                                                          |  
-| 息子                        | むすこ             | figlio                        |                                                                                          |  
-| 学校                        | がっこう            | liceo                         |                                                                                          |  
-| 登場人物                      | とう\|じょう\|じん\|ぶつ | entrata in scena              |                                                                                          |  
-| 始めましょう                    | はじめましょう         | iniziamo!                     |                                                                                          |  
-| 終わりましょう                   | おわりましょう         | finiamo!                      |                                                                                          |  
-| 休みましょう                    | やすみましょう         | facciamo una pausa!           |                                                                                          |  
-|                           | わかりますか          | capisci?                      |                                                                                          |  
-|                           | はい、わかります        | si, capisco                   |                                                                                          |  
-|                           | いいえ、わかりません      | no, non capisco               |                                                                                          |  
-| もう、一度                     | もう、いちど          | ancora una volta              |                                                                                          |  
-| お願いします                    | おねがいします         | per favore                    |                                                                                          |  
-|                           | いいです            | si, va bene                   |                                                                                          |  
-| 違います                      | ちがいます           | no, è errato                  |                                                                                          |  
-| 試験                        | しけん             | esame                         |                                                                                          |  
-| 宿題                        | しゅくだい           | compito                       |                                                                                          |  
-| 質問                        | しつもん            | domanda                       |                                                                                          |  
-| 答え                        | こた              | risposta                      |                                                                                          |  
-| 例                         | れい              | esempio                       |                                                                                          |  
-|                           | ばつ              | croce/errato                  |                                                                                          |  
-| 円                         | まる              | cerchio                       | corretto                                                                                 |  
-| 毎日                        | まいにち            | ogni giorno                   |                                                                                          |  
-|                           | あいさつと           | saluti                        |                                                                                          |  
-| 会話表                       | かいわ             | conversazione                 |                                                                                          |  
-| 表現                        | ひょうげん           | espressione                   |                                                                                          |  
-| 数字                        | すうじ             | numerare/contare              |                                                                                          |  
-|                           | ゼロ・れい           | zero                          |                                                                                          |  
-| 一                         | いち              | uno                           |                                                                                          |  
-| 二                         | に               | due                           |                                                                                          |  
-| 三                         | さん              | tre                           |                                                                                          |  
-| 四                         | よん・し            | quattro                       |                                                                                          |  
-| 五                         | ご               | cinque                        |                                                                                          |  
-| 六                         | ろく              | sei                           |                                                                                          |  
-| 七                         | なな・しち           | sette                         |                                                                                          |  
-| 八                         | はち              | otto                          |                                                                                          |  
-| 九                         | きゅう・く           | nove                          |                                                                                          |  
-| 十                         | じゅう             | dieci                         |                                                                                          |  
-| //inserire kanji quaderno |                 |                               |                                                                                          |  
-| 来る                        | くる              | venire/provenire              | forma del dizionario (piana affermativa non passata)                                     |  
-| 来ました                      | きました            | venire/provenire              | forma gentile affermativa passata                                                        |  
-| 鉛筆                        | えんぴつ            | matita                        | 鉛piombo 筆strumento per scrivere                                                          |  
-|                           | めがね             | occhiali                      |                                                                                          |  
-|                           | かぞく             | famiglia                      |                                                                                          |  
-|                           | がいじん            | straniero                     |                                                                                          |  
-|                           | いけ              | laghetto                      |                                                                                          |  
-|                           | きく              | ascoltare                     |                                                                                          |  
-|                           | かし              | dolce                         |                                                                                          |  
-|                           | おかし             | dolce                         | (con onorifico)                                                                          |  
-|                           | かぼちゃ            | zucca                         |                                                                                          |  
-| 自転車                       | じてんしゃ           | bicicletta                    |                                                                                          |  
-|                           | としょかん           | biblioteca                    |                                                                                          |  
-|                           | けっこん            | matrimonio                    |                                                                                          |  
-|                           | せっけん            | sapone                        |                                                                                          |  
-|                           | がっき             | strumento musicale            |                                                                                          |  
-|                           | おっと             | mio marito                    |                                                                                          |  
-|                           | テニス             | tennis                        |                                                                                          |  
-|                           | キウイ             | kiwi                          | (frutto)                                                                                 |  
-|                           | ネクタイ            | cravatta                      |                                                                                          |  
-|                           | テソト             | test                          |                                                                                          |  
-|                           | ミラノ             | Milano                        |                                                                                          |  
-|                           | イタリア            | Italia                        |                                                                                          |  
-|                           | フランス            | Francia                       |                                                                                          |  
-|                           | アメリカ            | America                       |                                                                                          |  
-|                           | スペイン            | Spagna                        |                                                                                          |  
-|                           | テレヴ             | tv                            |                                                                                          |  
-|                           | ドイツ             | Germania                      |                                                                                          |  
-|                           | パリ              | Parigi                        |                                                                                          |  
-|                           | ラジオ             | radio                         |                                                                                          |  
-|                           | カップ             | tazza                         |                                                                                          |  
-|                           | ベッド             | letto                         |                                                                                          |  
-|                           | ローマ             | Roma                          |                                                                                          |  
-|                           | 小ージー            | caffè                         |                                                                                          |  
-|                           | ノート             | blocco note                   |                                                                                          |  
-| 辞書                        | じしょ             | dizionario                    |                                                                                          |  
-| 雑誌                        | ざっし             | rivista                       |                                                                                          |  
-|                           | しんぶん            | giornale/quaderno             |                                                                                          |  
-|                           | めいし             | biglietto da visita           |                                                                                          |  
-|                           | つくえ             | tavolo                        |                                                                                          |  
-|                           | ボールペン           | penna a sfera                 |                                                                                          |  
-|                           | シャップペンシル        | portamine                     |                                                                                          |  
-|                           |                 |                               |                                                                                          |  
-|                           |                 |                               |                                                                                          |  
+| KANJI+OKURIGANA           | HIRAGANA        | TRADUZIONE                    | NOTE                                                                                     |     |
+| ------------------------- | --------------- | ----------------------------- | ---------------------------------------------------------------------------------------- | --- |
+| 私                         | わたし             | io                            |                                                                                          |     |
+|                           | あなた             | tu                            |                                                                                          |     |
+|                           | わたしたち           | noi                           |                                                                                          |     |
+| あの人                       | あのひと            | quella persona                |                                                                                          |     |
+| あの方                       | あのかた            | quella persona                | cortese                                                                                  |     |
+|                           | さん              |                               | suffisso che si aggiunge dopo i nomi di persona per esprimere cortesia                   |     |
+|                           | くん              |                               | suffisso che si aggiunge dopo i nomi dei bambini                                         |     |
+|                           | ちゃん             |                               | suffisso che si aggiunge dopo i nomi delle bambine                                       |     |
+| 先生                        | せんせい            | maestro                       | non riferito al proprio lavoro, usato anche per riferirsi a persone con titoli specifici |     |
+| 教師                        | きょうし            | maestro                       |                                                                                          |     |
+| 主婦                        | しゅふ             | casalinga                     |                                                                                          |     |
+| 学生                        | がくせい            | studente                      |                                                                                          |     |
+| 大学生                       | だいがくせい          | studente universitario        |                                                                                          |     |
+| 会社員                       | かいしゃいん          | impiegato                     |                                                                                          |     |
+| 社員                        | しゃいん            | impiegato                     | specificando prima l'azienda: *nome azienda*の社員                                          |     |
+| 銀行員                       | ぎんこういん          | bancario/impiegato in banca   |                                                                                          |     |
+| 銀行                        | ぎんこう            | banca                         | 銀(ぎん argento) 行 (こう andare/istituto)                                                     |     |
+| 医者                        | いしゃ             | medico                        |                                                                                          |     |
+| 研究者                       | けんきゅうしゃ         | ricercatore                   |                                                                                          |     |
+| 大学                        | だいがく            | università                    |                                                                                          |     |
+| 病院                        | びょういん           | ospedale                      | 病(びょう malattia) 院(いん istituto/edificio)                                                  |     |
+| 佐藤                        | さとう             | Satou                         | nome proprio                                                                             |     |
+|                           | だれ              | chi è(nelle domande)          |                                                                                          |     |
+|                           | どなた             | chi è(nelle domande)          | più cortese                                                                              |     |
+| 歳                         | さい              | anni di età                   | suffisso dopo il numero                                                                  |     |
+|                           | おいくつ            | quanti anni (domanda)         | forma più cortese rispetto a 何歳                                                          |     |
+| 何                         | なに・なん           |                               | prefisso per l'oggetto della domanda                                                     |     |
+|                           | はい              | si                            |                                                                                          |     |
+|                           | いいえ             | no                            |                                                                                          |     |
+| 初めまして                     | はじめまして          | piacere di conoscerti         |                                                                                          |     |
+| 山田                        | やまだ             | Yamada                        | nome proprio                                                                             |     |
+| ~から来ました                   | ~からきました         | provengo da ~                 |                                                                                          |     |
+|                           | この              | questo                        |                                                                                          |     |
+|                           | その              | codesto                       |                                                                                          |     |
+|                           | あの              | quello                        |                                                                                          |     |
+|                           | どの              | quale?                        |                                                                                          |     |
+| あの方どなたですか。                | あのかたどなたですか。     | Quella persona chi è?         |                                                                                          |     |
+|                           | よろしく            | piacere di conoscerla         |                                                                                          |     |
+|                           | どうぞよろしくおねがいします  | piacere di conoscerla         | più formale                                                                              |     |
+| 名前                        | なまえ             | nome                          |                                                                                          |     |
+| 中国                        | ちゅうごく           | cina                          |                                                                                          |     |
+| 部長                        | ぶちう             | presidente                    |                                                                                          |     |
+| 電気                        | でんき             | elettricità                   | 電気 (den + ki -> ki = atmosfera)                                                          |     |
+| 韓国                        | かんこく            | corea del sud                 |                                                                                          |     |
+| 小学生                       | しょうがくせい         | studente di scuola elementare |                                                                                          |     |
+| 娘                         | むすめ             | figlia                        |                                                                                          |     |
+| 一郎                        | いちろう            | primo                         |                                                                                          |     |
+| 息子                        | むすこ             | figlio                        |                                                                                          |     |
+| 学校                        | がっこう            | liceo                         |                                                                                          |     |
+| 登場人物                      | とう\|じょう\|じん\|ぶつ | entrata in scena              |                                                                                          |     |
+| 始めましょう                    | はじめましょう         | iniziamo!                     |                                                                                          |     |
+| 終わりましょう                   | おわりましょう         | finiamo!                      |                                                                                          |     |
+| 休みましょう                    | やすみましょう         | facciamo una pausa!           |                                                                                          |     |
+|                           | わかりますか          | capisci?                      |                                                                                          |     |
+|                           | はい、わかります        | si, capisco                   |                                                                                          |     |
+|                           | いいえ、わかりません      | no, non capisco               |                                                                                          |     |
+| もう、一度                     | もう、いちど          | ancora una volta              |                                                                                          |     |
+| お願いします                    | おねがいします         | per favore                    |                                                                                          |     |
+|                           | いいです            | si, va bene                   |                                                                                          |     |
+| 違います                      | ちがいます           | no, è errato                  |                                                                                          |     |
+| 試験                        | しけん             | esame                         |                                                                                          |     |
+| 宿題                        | しゅくだい           | compito                       |                                                                                          |     |
+| 質問                        | しつもん            | domanda                       |                                                                                          |     |
+| 答え                        | こた              | risposta                      |                                                                                          |     |
+| 例                         | れい              | esempio                       |                                                                                          |     |
+|                           | ばつ              | croce/errato                  |                                                                                          |     |
+| 円                         | まる              | cerchio                       | corretto                                                                                 |     |
+| 毎日                        | まいにち            | ogni giorno                   |                                                                                          |     |
+|                           | あいさつと           | saluti                        |                                                                                          |     |
+| 会話表                       | かいわ             | conversazione                 |                                                                                          |     |
+| 表現                        | ひょうげん           | espressione                   |                                                                                          |     |
+| 数字                        | すうじ             | numerare/contare              |                                                                                          |     |
+| 零                         | ゼロ・れい           | zero                          |                                                                                          |     |
+| 一                         | いち              | uno                           |                                                                                          |     |
+| 二                         | に               | due                           |                                                                                          |     |
+| 三                         | さん              | tre                           |                                                                                          |     |
+| 四                         | よん・し            | quattro                       |                                                                                          |     |
+| 五                         | ご               | cinque                        |                                                                                          |     |
+| 六                         | ろく              | sei                           |                                                                                          |     |
+| 七                         | なな・しち           | sette                         |                                                                                          |     |
+| 八                         | はち              | otto                          |                                                                                          |     |
+| 九                         | きゅう・く           | nove                          |                                                                                          |     |
+| 十                         | じゅう             | dieci                         |                                                                                          |     |
+| //inserire kanji quaderno |                 |                               |                                                                                          |     |
+| 来る                        | くる              | venire/provenire              | forma del dizionario (piana affermativa non passata)                                     |     |
+| 来ました                      | きました            | venire/provenire              | forma gentile affermativa passata                                                        |     |
+| 鉛筆                        | えんぴつ            | matita                        | 鉛piombo 筆strumento per scrivere                                                          |     |
+|                           | めがね             | occhiali                      |                                                                                          |     |
+|                           | かぞく             | famiglia                      |                                                                                          |     |
+|                           | がいじん            | straniero                     |                                                                                          |     |
+|                           | いけ              | laghetto                      |                                                                                          |     |
+|                           | きく              | ascoltare                     |                                                                                          |     |
+|                           | かし              | dolce                         |                                                                                          |     |
+|                           | おかし             | dolce                         | (con onorifico)                                                                          |     |
+|                           | かぼちゃ            | zucca                         |                                                                                          |     |
+| 自転車                       | じてんしゃ           | bicicletta                    |                                                                                          |     |
+|                           | としょかん           | biblioteca                    |                                                                                          |     |
+|                           | けっこん            | matrimonio                    |                                                                                          |     |
+|                           | せっけん            | sapone                        |                                                                                          |     |
+|                           | がっき             | strumento musicale            |                                                                                          |     |
+|                           | おっと             | mio marito                    |                                                                                          |     |
+|                           | テニス             | tennis                        |                                                                                          |     |
+|                           | キウイ             | kiwi                          | (frutto)                                                                                 |     |
+|                           | ネクタイ            | cravatta                      |                                                                                          |     |
+|                           | テソト             | test                          |                                                                                          |     |
+|                           | ミラノ             | Milano                        |                                                                                          |     |
+|                           | イタリア            | Italia                        |                                                                                          |     |
+|                           | フランス            | Francia                       |                                                                                          |     |
+|                           | アメリカ            | America                       |                                                                                          |     |
+|                           | スペイン            | Spagna                        |                                                                                          |     |
+|                           | テレヴ             | tv                            |                                                                                          |     |
+|                           | ドイツ             | Germania                      |                                                                                          |     |
+|                           | パリ              | Parigi                        |                                                                                          |     |
+|                           | ラジオ             | radio                         |                                                                                          |     |
+|                           | カップ             | tazza                         |                                                                                          |     |
+|                           | ベッド             | letto                         |                                                                                          |     |
+|                           | ローマ             | Roma                          |                                                                                          |     |
+|                           | 小ージー            | caffè                         |                                                                                          |     |
+|                           | ノート             | blocco note                   |                                                                                          |     |
+| 辞書                        | じしょ             | dizionario                    |                                                                                          |     |
+| 雑誌                        | ざっし             | rivista                       |                                                                                          |     |
+|                           | しんぶん            | giornale/quaderno             |                                                                                          |     |
+|                           | めいし             | biglietto da visita           |                                                                                          |     |
+|                           | つくえ             | tavolo                        |                                                                                          |     |
+|                           | ボールペン           | penna a sfera                 |                                                                                          |     |
+|                           | シャップペンシル        | portamine                     |                                                                                          |     |
+|                           |                 |                               |                                                                                          |     |
+|                           |                 |                               |                                                                                          |     |
 DA INSERIRE KANJI DEL LIBRO DI KANJI (tipo 目 め)  
 ~stato~から -> da ~stato~  
 来ました provengo きました  
@@ -596,6 +596,83 @@ giapp. MM/DD
 ~¹が、~² -> ~, ma ~  
 けっこいです può bastare così  
 
-ちゅうかりょうり cucina cinese 中華料理
-わしょく cucina giapponese 和食
-伊 italia
+ちゅうかりょうり cucina cinese 中華料理  
+わしょく cucina giapponese 和食  
+伊 italia  
+
+わたしにとって per me (secondo me)  
+うそつき bugiardo  
+しゅっしん = provenienza  
+(イタリアのしゅっしん)  
+
+そうですね。	uhm (pensando alla risposta)  
+〜、もう一杯（いっぱい）いかがですか。le andrebbe un altro bicchiere di ~  
+いいえ、けっこうです。no, può bastare così  
+もう〜です「ね」。ormai è già ~ \[eh]  
+そろそろ失礼（しつれい）します。tra poco tolgo il disturbo  
+いいえ。di niente  
+またいらっしゃってください。la prego, torni a trovarci  
+山 si pronuncia さん in alcuni casi (tipo 富士山 -> ふじさん)  
+
+わかります。capire  
+あります。avere  
+すき「な」piaciuto 好き「な」  
+きらい odiato  
+じょうず「な」bravo a, abile 上手「な」  
+へた「な」non bravo a, maldestro 下手「な」  
+のみもの bevanda 飲み物  
+
+usando をします diventano azioni  
+りょうり pietanza, cucina 料理  
+スポーツ sport  
+やきゅうbaseball 野球  
+ダンス danza  
+りょこう viaggio 旅行  
+やくそく appuntamento, promessa 約束  
+アルバイト lavoro part-time  
+
+おんがく musica 音楽  
+うた canzone 歌  
+クラシック musica classica  
+ジャズ jazz  
+コンサート concerto  
+カラオケ karaoke (katakana perché “オケ” da “オーケストラ”, “カラ” 「空」= vuoto)  
+かぶき una forma di teatro tradizionale giapponese 歌舞伎  
+え disegno, quadro, pittura  
+じ carattere, lettera 字  
+かんじ caratteri cinesi 漢字  
+ひらがな hiragana  
+かたかな katakana  
+ローマじ caratteri latini ローマ字  
+こまかいおかね spiccioli 細かいお金  
+チケット biglietto  
+じかん tempo 時間  
+ようじ impegno 用事  
+ごしゅじん (tuo\/suo) marito ご主人  
+おっと・しゅじん (mio) marito 夫・主人  
+おくさん (tua\/sua) moglie 奥さん  
+つま・かない (mia) moglie 妻・家内  
+こども figlio 子ども  
+
+よく bene (avverbio)   
+彼は日本語をよく話します。“Lui parla bene il giapponese.” Kare wa nihongo o yoku hanashimasu  
+
+だいたい più o meno  
+たくさん molto, tanto, in abbondanza  
+すこし un po’ (poco) 少し  
+ぜんぜん per niente 全然  
+はやく velocemente 早く・速く  
+〜から perché ~ (congiunzione), poiché ~  
+どうして perché (interrogativo)  
+かしてください prestamelo, perfavore 貸してください  
+いいですよ certamente  
+ざんねんです「か」 è un peccato \[ma] 残念です「か」  
+
+ああ ah  
+いっしょにいかがですか andiamo insieme, che ne dice?  
+「〜は」ちょっと mmh (interazione per declinare un’offerta  
+だめですか non le va bene?  
+またこんどおねがいします facciamo la prossima volta また今度お願いします  
+
+屋 negozio や
+そろそろ失礼します tolgo il disturbo そろそろしつれいします
