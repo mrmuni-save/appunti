@@ -674,5 +674,26 @@ usando をします diventano azioni
 だめですか non le va bene?  
 またこんどおねがいします facciamo la prossima volta また今度お願いします  
 
-屋 negozio や
-そろそろ失礼します tolgo il disturbo そろそろしつれいします
+屋 negozio や  
+そろそろ失礼します tolgo il disturbo そろそろしつれいします  
+
+りくじょうきょうぎ　陸上競技　atletica (corsa, lanci, salti)  
+すいえい　水泳　nuoto  
+
+私は　<ruby>恋愛<rt>romance</rt></ruby>（れんあい）<ruby>もの<rt>genere</rt></ruby>　が　とても　すき　です。　でも　喜劇（きげき）もの　映画（えいが）　が　すき　じゃ　ありません。  
+
+私は勉強がへたです。  
+私は歌がえたです。(non sono bravo a cantare)  
+遊ぶ giocare（あそぶ）じかん　が　ありません　jikan ga arimasen = non ho tempo  
+昨日（きのう）ようじ　が　ありました　ieri avevo degli impegni  
+
+日中　にっちゅ　durante il giorno 　昼間　ひるま　durante quando c'è sole  
+明はまだちょっと寒いですか、日中は、あまり寒くないです。でも、夜はやっぱりまださむいです。  
+
+やくそく = promessa-appuntamento (con altre persone, c'è commitment)  
+ようじ = impegno-task (anche da solo, perché tocca o si deve)  
+
+<ruby>かれ<rt>lui</rt></ruby>はかん（<ruby>漢<rt>"virile"</rt></ruby>）です。  
+女ぽい comportamento femminile  
+男ぽい comportamento maschile  
+音痴（おんち）stonato  
