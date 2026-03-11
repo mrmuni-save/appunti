@@ -697,3 +697,56 @@ usando をします diventano azioni
 女ぽい comportamento femminile  
 男ぽい comportamento maschile  
 音痴（おんち）stonato  
+
+いろいろ「な」vario  
+男の人 uomo おとこのひと  
+女の人 donna おんあのひと  
+男の子 bambino おとこのこ  
+女の子 bambina おんなのこ  
+
+犬 cane いぬ  
+猫 gatto ねこ  
+パンダ panda  
+像 elefante ぞう  
+木 albero き  
+物 oggetto もの  
+電池 batteria でんち  
+箱 scatola はこ  
+スイッチ interruttore  
+冷蔵庫 frigorifero れいぞうこ  
+テーブル tavola  
+ベッド letto  
+棚 scaffale たな  
+ドア porta  
+窓 finestra まど  
+ポスト buca delle lettere  
+ビル palazzo  
+ATM bancomat  
+コンビニ konbini  
+
+公園 parco こうえん  
+喫茶店 bar cafè きっさてん  
+~屋 negozio di ~ ~や  
+乗り場 fermata (autobus, taxi etc)  のりば  
+県 prefettura けん  
+
+上 sopra うえ  
+下 sotto した  
+
+前 davanti まえ  
+うしろ dietro
+
+右 destra みぎ  
+左 sinistra ひだり  
+
+中 dentro なか  
+外 fuori そと  
+
+隣 accanto となり  
+近く nelle vicinanze ちかく  
+間 tra あいだ  
+
+~や ~「など」~, e ~\[e altro\]  
+
+本棚（ほんだな）scaffale o mensola quand con dei libri sopra  
+棚（たな）scaffale o mensola  
