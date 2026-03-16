@@ -196,7 +196,7 @@ reception (jp) -> ricevimento (dove si mangia)
 うりば reparto  
 
 ロビー lobby  
-へや stanza  
+へや stanza　部屋  
 トイレ　bagno　おてあらい　da "arau" lavarsi, "te" mano, "o" onorifico  
 かいだん scala  
 エレベーター ascensore  
@@ -560,7 +560,7 @@ giapp. MM/DD
 いい buono  
 わるい brutto (tempo)  
 暑い・熱い caldo あつい  
-寒い freddo (tempo) さむい  
+寒い freddo (ambiente) さむい  
 冷たい freddo (al tatto) つめたい  
 難しい difficile むずかしい  
 易しい facile やさしい  
@@ -734,7 +734,7 @@ ATM bancomat
 下 sotto した  
 
 前 davanti まえ  
-うしろ dietro
+後ろ dietro うしろ  
 
 右 destra みぎ  
 左 sinistra ひだり  
@@ -750,3 +750,95 @@ ATM bancomat
 
 本棚（ほんだな）scaffale o mensola quand con dei libri sopra  
 棚（たな）scaffale o mensola  
+
+金魚（きんぎょ）pesce rosso  
+shinbun = shin (nuovo) + kiki (ascoltare) kanji -> ascoltare nuovo -> giornale  
+いつ quando  
+0:00 = れえじ e non じゅうにじ  
+
+子供がいます avere figli  
+日本にいます stare in giappone  
+かかります volerci soldi o tempo, costare
+会社を休みます prendere ferie dal lavoro  
+
+CONTATORI GENERICI  
+ひとつ　一つ  
+ふたつ　二つ
+みっつ　三つ  
+よっつ　四つ  
+いつつ　五つ  
+むっつ　六つ  
+ななつ　七つ  
+やっつ　八つ  
+ここのつ　九つ  
+とう　10  
+いくつ quanti  
+
+PERSONE  
+ひとり　一人  
+ふたり　二人  
+ーにん　ー人 -persone  
+
+だい　台　contatore per macchine, automobili e simili  
+まい　枚　contatore per francobolli, fogli, cose piatte e sottili  
+かい　回　volte  
+
+りんご　mela  
+みかん　mandarino  
+サンドイッチ　sandwitch  
+カレー　curry
+アイスクリーム　gelato  
+
+きって　切手　francobollo  
+はがき　cartolina  
+ふうとう　封筒　busta  
+
+りょうしん　両親　genitori    
+きょうだい　兄弟　fratelli  
+
+あに　兄　fratello maggiore (proprio)  
+おにいさん　お兄さん　fratello maggiore (di altri)  
+あね　姉　sorella maggiore (propria)  
+おねえさん　お姉さん　sorella maggiore (di altri)  
+
+おとうと　弟　fratello minore (proprio)　＋さん　di altri  
+いもうと　妹　sorella minore (propria)　＋さん　di altri  
+
+がいごき　外国　paese straniero, estero  
+りょうがくせい　両学生　studente all'estero  
+クラス　classe  
+
+ーじかん　ー時間　ore  
+ーしゅうかん　ー週間　settimane  
+ーかげつ　ーか月　mesi  
+~ぐらい　circa ~ (solo con numeri, quindi circa x volte)  
+どのくらい　quanto tempo circa  
+3-4 volte: さんし回　（三四）+ ぐらい  
+ほぼ毎日　quasi ogni giorno  
+
+いい「お」天気ですね。　che bel tempo vero?  
+お<ruby>出<rt>て</rt></ruby>かけですか　va da qualche parte?  
+ちょっと~です。　vado un attimo a ~  
+行ってらしゃい　いってらしゃい 　vado un attimo
+行ってきます　いってきます　vado e torno  
+
+ふなびん　船便　via nave  
+こうくうびん　航空便　via aereo  
+
+オーストラリア　australia  
+
+イタリアはアイスクリームがおいしいし、ピッザもおいしいし、食べ物がみんあおいしいからいいですね。  
+il gelato italiano è buono, anche la pizza è buona, il cibo è buono tutto, perciò invidio  
+
+みなさま・みなさん・みんな -> in ordine di rispetto  
+「お」とのさま・との　殿　principe  
+「お」ひめさま・ひめ　姫　principessa  
+
+かんたん「な」　簡単「な」　facile, semplice  
+ちかい　近い　vicino  
+とおい　遠い　lontano  
+はやい　早い、速い　veloce  
+おそい　遅い　lento  
+おおい　多い　numerosi\/e  
+すくない　少ない　pochi\/e  
+あたたかい　温かい、暖かい　mite o caldo  
