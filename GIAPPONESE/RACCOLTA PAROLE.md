@@ -1,3 +1,4 @@
+
 | ROMAJI   | TRADUZIONE       | HIRAGANA (se kun o furigana) | KATAKANA (se on) | KANJI (+ okurigana) |     |
 | -------- | ---------------- | ---------------------------- | ---------------- | ------------------- | --- |
 | toujou   | entrata in scena | とうじょう                        |                  | 登場                  |     |
