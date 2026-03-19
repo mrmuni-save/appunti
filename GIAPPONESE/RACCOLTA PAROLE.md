@@ -843,3 +843,12 @@ il gelato italiano è buono, anche la pizza è buona, il cibo è buono tutto, pe
 おおい　多い　numerosi\/e  
 すくない　少ない　pochi\/e  
 あたたかい　温かい、暖かい　mite o caldo  
+
+物価（ぶっか）= prezzi ミラノは物価がたかいです。i prezzi di milano sono alti  
+スト = strike = sciopero  
+ミラノの地下鉄が便利です。la metro di milano è comoda-utile  
+国宝＝こくほう＝premio per persone come "tesoro nazionale"  
+人間＝にんげん＝essere umano  
+
+6 mesi = ろっかげつoppure はんとし (metà anno)  
+8 mesi può essere sia はっかげつ che はちかげつ  
