@@ -852,3 +852,24 @@ il gelato italiano è buono, anche la pizza è buona, il cibo è buono tutto, pe
 
 6 mesi = ろっかげつoppure はんとし (metà anno)  
 8 mesi può essere sia はっかげつ che はちかげつ  
+
+おどり= ballo  
+おどる = ballare  
+ぼん = intorno ad agosto (rif. buddhismo) giorni prima di ferragosto si onorano i defunti  
+ぼんおどり danza tradizionale (rif. sopra) 盆踊り  
+
+ベンチ panchina  
+こい carpa 鯉  
+ひき contatore per animali 匹  
+たのしい = divertente -> たのしみです = non vedo l'ora 「休みが楽しまです。」"non vedo l'ora di ferie"  
+たのしみです = non vedo l'ora di vederti  
+
+お金が欲しいです。 vorrei soldi  
+
+チョコチップ　stracciatella  
+ドーナツ　ciambella (donut)  
+ウォークマン　walkman  
+fare una chiamata = kakeru = denwa WO, parlare al telefono = hanasuru = denwa DE  
+まちがい　さがし　errori cercare = trova gli errori - differenze  
+ウインドー　vetrina di un negozio  
+ほんやく　traduzione　ほんやくのせんしゅう　esercizio di traduzione  
