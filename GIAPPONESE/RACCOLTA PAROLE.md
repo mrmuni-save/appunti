@@ -873,3 +873,7 @@ fare una chiamata = kakeru = denwa WO, parlare al telefono = hanasuru = denwa DE
 まちがい　さがし　errori cercare = trova gli errori - differenze  
 ウインドー　vetrina di un negozio  
 ほんやく　traduzione　ほんやくのせんしゅう　esercizio di traduzione  
+
+きびしい severo  
+明るい　あかるい　luminoso, ma può essere usato per descrivere una persona solare  
+とつぜん　突然　improvvisamente  
