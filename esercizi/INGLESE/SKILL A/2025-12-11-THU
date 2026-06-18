@@ -1,0 +1,16 @@
+free 10 pounds
+safe option: +5 pounds
+risk: coin toss
+	- win: get 10
+	- loss: nothing
+people tend to not risk in this case
+
+free 20 pounds
+safe: loss of 5 pounds
+risk: coin toss
+	- loss: lose 10
+	- win: keep 20
+in this scenario people tend to risk
+
+Ellipsis: removal of a part of a sentence in which the information is obvious, irrelevant or already said before.
+"What time are you coming?" -> "I'm coming around five!" | "Around five!"
