@@ -877,3 +877,6 @@ fare una chiamata = kakeru = denwa WO, parlare al telefono = hanasuru = denwa DE
 きびしい severo  
 明るい　あかるい　luminoso, ma può essere usato per descrivere una persona solare  
 とつぜん　突然　improvvisamente  
+
+調べます　しらべます investigare o cercare  
+体調　たいちょ　stare bene fisicamente  

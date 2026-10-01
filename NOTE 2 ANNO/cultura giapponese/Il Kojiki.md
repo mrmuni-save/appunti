@@ -3,7 +3,7 @@ Per rendere lo stato effettivo a tutti vi volevano relazioni scritte (gli annali
 Commissionarono quindi uno scrivano di corte e gli chiesero di raccogliere tutte le tradizioni orali del Giappone e trascriverle insieme per dimostrare la divinità del sangue imperiale.  
 Serviva una storia ufficiale che percorreva tutte le narrazioni per dimostrare che il sangue imperiale derivava dagli dei, da Amaterasu, la dea del sole. 
 Tale lavoro durò 2 anni e nel 712 venne presentato il Kojiki (racconti di antichi eventi).  
-Fino ai più lontani confini del paese tutto lo stato Yamato era subordinato allo stato di Himiko. Le tribù ancora deboli si assoggettarono al suo governo.  
+Fino ai più lontani confini del paese tutto lo stato Yamatai era subordinato allo stato di Himiko. Le tribù ancora deboli si assoggettarono al suo governo.  
 Nel 1889-90 il Giappone presentò la prima costituzione al mondo (è anche la prima di un paese asiatico), il Kojiki.  
 Queste continuò ad essere rappresentato ovunque e viene ancora letto persino attraverso i manga, appunto ispirati ad esso.  
 
