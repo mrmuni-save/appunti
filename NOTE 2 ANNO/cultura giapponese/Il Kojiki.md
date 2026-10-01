@@ -1,0 +1,26 @@
+Nel 700 d.C. la scrittura era ormai assimilata ma è ancora solo una faccenda di stato, nessuno sa scrivere e chi lo sa sa scrivere in cinese.  
+Per rendere lo stato effettivo a tutti vi volevano relazioni scritte (gli annali).  
+Commissionarono quindi uno scrivano di corte e gli chiesero di raccogliere tutte le tradizioni orali del Giappone e trascriverle insieme per dimostrare la divinità del sangue imperiale.  
+Serviva una storia ufficiale che percorreva tutte le narrazioni per dimostrare che il sangue imperiale derivava dagli dei, da Amaterasu, la dea del sole. 
+Tale lavoro durò 2 anni e nel 712 venne presentato il Kojiki (racconti di antichi eventi).  
+Fino ai più lontani confini del paese tutto lo stato Yamato era subordinato allo stato di Himiko. Le tribù ancora deboli si assoggettarono al suo governo.  
+Nel 1889-90 il Giappone presentò la prima costituzione al mondo (è anche la prima di un paese asiatico), il Kojiki.  
+Queste continuò ad essere rappresentato ovunque e viene ancora letto persino attraverso i manga, appunto ispirati ad esso.  
+
+Il Kojiki parla di Izanami (colei che invita) e Izanagi (colui che invita), due dei minori, che si dice scesero e si posarono sul "ponte del cielo", ove Izanagi piantò la lancia ingioiellata donatagli dagli dei nella melma, e dalle gocce che caddero sul terreno si creò l'arcipelago giapponese, e quindi il Giappone nasce dagli dei. I giapponesi definiranno per molto tempo la loro terra "terra degli dei".  
+Izanagi e Izanami sono fratello e sorella, il bastone rappresenta il membro maschile e le gocce lo sperma, e quindi si parla di incesto.  
+I due fratelli costruiscono una colonna e istituiscono un rituale: girarci intorno.  
+Izanami e Izanaghi generarono poi migliaia di dei, tra cui un essere senza scheletro (tipo una medusa) che abbandonarono). Chiesero agli dei maggiori dove avevano sbagliato, e decisero che ciò era dovuto al rituale: "la donna ha parlato per prima, dopo che avete girato intorno alla colonna".  
+Una cosa del genere in una società come il Giappone, che dal 200 d.C. al 700 d.C. era praticamente matriarcale, è molto inaspettata. Ciò è dovuto all'influenza ed all'ingresso nell'isola giapponese della religione buddhista cinese, dove le donne non hanno un bel ruolo (e quindi la società matriarcale giapponese smette di essere matriarcale).  
+Quando nasce il dio del fuoco, egli uccide la madre Izanami, e Izanaghi si dispera, scendendo fin nel mondo dei morti alla ricerca della moglie\/sorella; lei però aveva già consumato il cibo dei morti e non poteva tornare. Lui si spazientisce ed entra, trovando lei morta e piena di vermi. Lei si trasforma in un essere demoniaco, avvinghiandolo e cerando di trascinarlo nel mondo dei morti, lui scappa ma viene inseguite da delle ancelle "da qui fino alla fine dei tempi io prenderò una vita"(creazione della morte), allora lui si getta in mare, che lo purifica: dal primo lavaggio nasce Amateratsu, la dea più importante, e dal secondo lavaggio i fratelli Tsukuyomi (luna\/notte) e Susanoo (tempesta\/mari).  
+Susanoo, non contento del suo ruolo, vuole tornare dalla madre (anche se tecnicamente non è sua madre) e decide di fare dispetti ad Amateratsu.  
+Amateratsu aveva una dimora, una pianura, in cielo, dove delle ancelle coltivavano riso. Susanoo scuoia vivo un cavallo a testa in giù (grande offesa alle divinità) e lo gettò nelle risaie della sorella. Il cavallo, impazzito per il dolore, devasta le risaie.  
+Amateratsu, che constata che Susanoo aveva oltrepassato il limite, lo combattè. Amateratsu era armata e piena di gioielli. Nessuno dei due vinse, ma dalla lotta vennero generati altri dei.  
+Amateratsu con la armatura ed i gioielli simboleggia Himiko (regina nel 200 d.C.).  
+Amateratsu si nasconde in una grotta, ed il mondo, senza la dea del sole, andò in rovina.  (mito molto simile a Demetra\/Cerere, madre di Persefone).  
+Il consiglio degli dei si riunisce per cercare di far uscire Amateratsu dalla grotta, che lei aveva bloccato con un masso, ma nessuno ci riuscì.  
+Ame No Uzume, una dea minore, disse agli dei di prendere un barile e farla salire su di esso. Ame No Uzume iniziò a danzare, finché non finì in uno stato di trance, ma mentre danzava si strappò i vestiti, mostrando parti del corpo a tutti gli dei, che si misero a ridere.  Amateratsu, incredula su come gli dei potessero divertirsi senza sole, uscì a vedere cosa succedeva. Gli dei misero due specchi davanti ad Amateratsu, che essendo la dea del sole illumina gli specchi, che riflettono la luce e la accecano. Gli dei poi presero di forza Amateratsu e la trascinarono via, lei accettò la sconfitta.  
+Si ipotizza Ame No Uzume sia la creatrice dei tamburi giapponesi.  
+I simboli imperiali imperiali consegnati a Ninigi no mikoto sono la spada Kusanagi (di Susanoo), il gioiello Yasakani no magatama e lo specchio Yata no kagami. La leggenda vuole che questi oggetti vennero trasmessi da Amateratsu al periodo attuale (della regina Himiko).  
+
+I giapponesi differenzieranno i "bianchi" (occidentali) dai "gialli" (asiatici) dai "bianchi dell'asia" (giapponesi) separando i giapponesi dagli altri perché era solo il Giappone ad essere divino.  

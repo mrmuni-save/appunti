@@ -1,0 +1,17 @@
+Il periodo Aska coincide con la fine degli Yamato e l'ingresso del buddhismo nella corte.  
+Il buddhismo porta in Giappone una cosa essenziale che mancava alla corte: la scrittura.  
+Da qui, per necessità entra il buddhismo, con rapporti commerciali cinesi che andranno avanti per secoli (non politici), recuperando i 1000 anni di differenza industriale dalla Cina.  
+Il Giappone necessitava della scrittura per scrivere le leggi e gli annali.  
+[[Il Kojiki]]  
+
+Per quanto gli studiosi collochino l'ingresso del buddhismo nella corte giapponese solo nel 536 o 532, in realtà il buddhismo si inserì piano piano, già con gli scambi tra Himiko e la Cina, e con studiosi cinesi che andavano in Giappone a studiare, e condividevano la loro dottrina.  
+Il buddhismo però è troppo complicato per i generici contadini, quindi loro rimangono shintoisti.  
+
+Un re coreano poi portò delle statuine.  
+Tra il periodo Kofun ed il 500, i giapponesi iniziarono a chiamare chi governava Tennoo (figlio o figlia del cielo), ossia imperatore\/imperatrice, prendendo spunto dalla Cina. Secondo la Cina, il cielo attribuisce un mandato, un incarico, non una predestinazione, e quindi se un imperatore non era buono e non seguiva le regole ed il sovrano, seppur sia il superiore e tutti siano subordinati e sia in cima alla scala gerarchica, deve comunque seguire la giustizia e rispettare gli altri, sennò il cielo gli toglie il mandato. La carica è quindi meritocratica e non ereditaria (seppur nell'effettivo sarà spesso ereditaria). Il Giappone è shintoista e vuole la linea di discendenza da Amateratsu ([[Il Kojiki]]), e non vuole qualcosa di meritocratico ma di ereditario, però ovviamente prendendo le cose dalla Cina e dal buddhismo ha dovuto prendere il termine Tennoo.  Qui nascerà lo stato di Giappone (che corrisponde allo stato di Yamato), e se la Cina scrive gli annali (dove è indicato anche l'imperatore giustificato meritocramente), il Giappone scrive [[Il Kojiki|il Kojiki]] (dove l'imperatore è giustificato per ereditarietà).  
+
+Quando entra il buddhismo a corte, in realtà esistevano 3 casati differenti, tutti e tre acon cariche ereditari.  
+I Nakatomi avevano il monopolio sull'organizzazione shintoista, I Mononobe avevano il monopolio sull'esercito, i Soga erano coreani e gestivano il commercio con la Corea, cercando di importare il buddhismo (motivo per il quale i Nakatomi e i Mononobe si alleano contro i Soga, facendo attentati ma non riuscendo).  Il buddhismo viene dichiarato quindi dottrina (non religione perché Buddha non è un dio) di corte.  In questo periodo però arrivò il vaiolo, e le due case shintoiste sfruttarono la cosa per dire fosse colpa del buddhismo, ed il vaiolo era una punizione da parte degli dei shintoisti, ma il buddhismo continuerà ad essere importante.  
+
+Il buddhismo entrato in Giappone non era lo stesso che c'era in Cina o in Corea, ma venne modificato per andare incontro ai bisogno dei giapponesi.  
+La corte, per creare templi buddhisti in tutto il territorio Yamato, paga ed assume cinesi e coreani (il Giappone non aveva le tecnologie necessarie), che si stanziarono in Giappone (i templi buddhisti giapponesi quindi avranno lo stile di quelli cinesi).  I templi, per essere mantenuti, avevano bisogno della manutenzione cinese, ed i terreni avevano bisogno degli agricoltori giapponesi, quindi i templi diventarono degli Stati dentro lo Stato, e la corte, inglobando i piccoli signori, crea un'aristocrazia con queste signorie.  

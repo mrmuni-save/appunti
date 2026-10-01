@@ -1,0 +1,2 @@
+Il kimono è nato come modello femminile voluto dai giapponesi usato per secoli per controllare le donne, limitando i loro movimenti (costringendo ad esempio a muoversi a passettini); e il seno non è visto bene, per questo viene stretto con le fasce. Per questo una donna con il kimono visto di profilo "deve" sembrare una linea retta.  
+Oltre a ciò, vi sono regole rigorose anche su nuca, capelli, caviglie e polsi.  
