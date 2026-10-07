@@ -7,10 +7,10 @@
 | mizu     | acqua            | みず                           |                  | 水                   |     |
 | shui/sui | acqua            |                              | スイ               | 水                   |     |
 
-| ROMAJI | TRADUZIONE       | KANJI+OKURIGANA+FURIGANA  |  
-| ------ | ---------------- | ------------------------- |  
-| hito   | essere umano     | {人\|ひと}                   |  
-| jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |  
+| ROMAJI | TRADUZIONE       | KANJI+OKURIGANA+FURIGANA  |     |
+| ------ | ---------------- | ------------------------- | --- |
+| hito   | essere umano     | {人\|ひと}                   |     |
+| jin    | abitante/persona | <ruby>人<rt>じん</rt></ruby> |     |
 ### VOCABOLI ED ESPRESSIONI, ORDINATI PER UNITÀ  
 
 | KANJI+OKURIGANA           | HIRAGANA        | TRADUZIONE                    | NOTE                                                                                     |     |

@@ -1,3 +1,7 @@
+Il Giappone per molti anni non avevano una scrittura, ma trasmettevano tutto oralmente. Per ovviare a ciò decisero di usare la scrittura cinese, per poi con il tempo modificarla. motivo per il quale attualmente la scrittura giapponese è così "complessa" tra hiragana, katakana e kanji, e tra pronuncie kun e on.  
+
+Verso la fine di questo periodo si iniziò a espandere l'etnia Yamato (Yamato minzoku), società matriarcale. A corte la regina era circondata da ancelle ed un solo uomo, necessario solo al sesso. Questa fu la prima ed unica dinastia giapponese. (altre etnie in Giappone sono gli Ainu e i Ryukyan, ma gli Yamato attualmente compongono il 98% della popolazione).  
+
 Nel 700 d.C. la scrittura era ormai assimilata ma è ancora solo una faccenda di stato, nessuno sa scrivere e chi lo sa sa scrivere in cinese.  
 Per rendere lo stato effettivo a tutti vi volevano relazioni scritte (gli annali).  
 Commissionarono quindi uno scrivano di corte e gli chiesero di raccogliere tutte le tradizioni orali del Giappone e trascriverle insieme per dimostrare la divinità del sangue imperiale.  

@@ -1,5 +1,3 @@
-#### La struttura geografica dell'arcipelago giapponese
-
 Il Giappone è costituito da 4 isole principali:  
 - Hokkaido: territorio che fino al 1800 fu considerato inutile dai giapponesi, con un clima molto simile al Canada
 - Honshu: la più vasta, dove si trova Tokyo
