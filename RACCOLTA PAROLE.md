@@ -880,3 +880,17 @@ fare una chiamata = kakeru = denwa WO, parlare al telefono = hanasuru = denwa DE
 
 調べます　しらべます investigare o cercare  
 体調　たいちょ　stare bene fisicamente  
+
+歌手　かしゅ　cantare  
+訳す　やくす　tradurre  
+
+verbo どうし　動詞  
+~(na-i)aggettivo ~けいようし　形容詞  
+nome めし　名詞  
+
+はれた　晴れた　soleggiato  
+
+多分　たぶん　forse, sicuramente (70%)  
+きっと　forse, sicuramente (90%)  
+
+国立　こくりつ　statale  

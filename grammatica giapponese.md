@@ -125,5 +125,28 @@ Gli argomenti opzionali vengono chiamati aggiunti.
 Nella frase "*Pierino va a Firenze.*", il come va a Firenze è un'informazione extra. Questi aggiunti sono simili ma non uguali ai complementi di luogo, mezzo/strumento, unione, provenienza, destinazione e terminativi.
 In giapponese, per mezzo si può anche intendere, ad esempio, la lingua che si usa per comunicare (*mezzo di comunicazione*).
 
+___
+#### I pronomi personali soggetto
 
-# continuare con i pronomi personali soggetto (documents grammatica_giappo_file_unico) e sistema kosoado (su carta)
+I pronomi personali soggetto, in giapponese, si differenziano per genere e livello di cortesia.  
+
+>[!info] Esempio:  
+Il pronome personale soggetto di prima persona singolare "io" in Giapponese può essere: ore, boku, watashi, watakushi, wagahai, atashi, washi...  
+
+Per quanto esistano anche vari modi per dire "tu", in giapponese tendenzialmente si utilizza il nome di qualcuno con un suffisso come "san", "kun", o "chan", oppure la carica\/titolo che la persona ricopre.  
+
+___
+#### I nomi (nomi in giapponese qui, su raccolta parole c'è sia hiragana che kanji)
+
+In giapponese, i sostantivi non hanno ne genere ne numero.  
+La cosa più vicina al plurale in giapponese è il "collettivo" <ruby>達<rt>たち</rt></ruby>.  
+
+>[!info] Esempio:  
+In italiano la cosa più simile al collettivo è un tipo di espressione, come "il corpo docente" o "il corpo studentesco", che sono singolari ma indicano una pluralità di elementi.  
+
+___
+#### Il verbo  <ruby>動詞<rt>どうし</rt></ruby>
+
+verbo どうし　動詞  
+~(na-i)aggettivo ~けいようし　形容詞  
+nome めし　名詞  

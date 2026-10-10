@@ -11,7 +11,7 @@ Dentro i Kofun vennero trovate anche armature, metalli decorati o completamente 
 Gli Haniwa erano statuine raffiguranti guerrieri, cavall e altro, sopra una base, risalenti a questo periodo. Si ipotizza fossero posti davanti ai Kofun per accompagnare gli spiriti dei morti, ma ci fu un'ipotesi su una loro ipotetica funzione antismottamento, e che quindi venivano piantati nel terreno per evitare frane.  
 
 Si trovarono anche delle statuine chiamate Saru (scimmia) risalenti a questo periodo.  
-Scimmie, cervi, volpi e altri animali sono considerati sacri, e anche attualmente determinati comportamenti contro di essi sono sanzionabili.  
+Scimmie, cervi, volpi e altri animali sono considerati sacri nello shintoismo, e anche attualmente determinati comportamenti contro di essi sono sanzionabili.  
 Da questo periodo vennero trovate ceramiche di imbarcazioni, cinghiali e cavalli.  
 Vennero trovati anche specchi di bronzo.  
 
